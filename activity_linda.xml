@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#990000"
+    android:orientation="vertical"
+    tools:context=".introduction">
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:background="#ffffff"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="15dp"
+                android:text="LINDA IKEJI"
+                android:textAlignment="center"
+                android:textAllCaps="true"
+                android:textColor="#000000"
+                android:textSize="30sp"
+                android:textStyle="bold" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="15dp"
+                android:fontFamily="sans-serif"
+                android:paddingLeft="8dp"
+                android:paddingRight="8dp"
+                android:text="I started struggling since I was 17 to support my family. I said the day I sell my body to a man for money, may God strike me dead. I was determined to make it on my own, never let any man take my dignity.
+
+It was early 2000, I was 19 years old, in my second year at the University of Lagos. I�d been a model for about a year and a half then. Modeling back then didn�t pay a lot. Sometimes you eat, sometimes you can�t find food. Sometimes you had money, sometimes you will have to beg for it. I�m not from a rich home. I started struggling since I was 17 to support my family.
+Linda Ikeji
+So I kinda hard a tough life growing up but I kept working, doing all sorts of modeling jobs, ushering, fashion shows, and at one point I sold beer at a hotel. I�d leave lectures, go to a hotel and sell beer from 1pm till 10pm. I did this for a few months. It wasn�t easy but I had to survive. One of the things I said to myself back then was, the day I sell my body to a man for money, may God strike me dead. I was determined to make it on my own, never let any man take my dignity.
+
+In those days, most young girls had an �aristo� I was never one of those girls. I would rather starve or beg for food than give my body to a man for money.
+
+So back to my story. It was early 2000, I hadn�t done any modeling jobs in a bit. I didn�t have any money in school, hadn�t ate a proper meal in days, there was no money at home� My sister called and asked if I could send money home�didn�t have any. I wondered what to do�then I thought of this �aristo� who had been chasing me for months now�old man�married.. .rich�in his fifties.
+
+I said to myself, why don�t you call him and beg him for money. Tell a lie, say you need it to go to the hospital �cos you�re sick or something that desperate. Which was what I did. What he said to me was �you know I like you. I don�t know why you�re behaving like a child. You need someone to take care of you blah blah blah�.
+
+Eventually he said I should meet him at a hotel. I will never forget that hotel�Ambassadors hotel in Ikoyi. I was apprehensive about going but I was desperate�I said to myself what�s the worse that can happen? It�s not like he will rape you and there was no way in hell I would sleep with him, so I figured even if he didn�t give me the money I asked for, at least he would give me money for transport fare to go back home�that transport fare was what I was looking forward to honestly. I didn�t have a dime on me, in fact I borrowed small money from a friend to go to the hotel.
+when I got there, he bought me hotel food (my first real meal in days�) and after I was done eating, he made his move. I shoved him off. He kept trying and I kept pushing him away and after a while he got angry and said something like, why did you come here then? Are you a child? He was angry that I made him pay for a hotel room, spent money on food etc and not give him what he wanted. So he got up to leave�and I told him I didn�t have any money to go back to school. If looks could kill, I would have died in that moment he turned to look at me. He left the hotel room, and I followed him. I kept begging and trying to explain to him that I didn�t have transport to go back, he didn�t say a word to me as he entered his vehicle and drove off.
+I stood in front of the hotel wondering how I was going to get back to school. All I had on me was N15. N15 wasn�t going to take me from Ikoyi to Akoka. In my plans, I never imagined that I wasn�t going to at least get a few thousands from him. I�d seen this guy before�he was a friend�s boss. He owned a media business back then and every time I went to see this friend, this man would call me into his office�tell me how pretty I am, how much he likes me and how well he can take care of me.
+
+And he always gave me 5k whenever I was ready to leave his office. But this time I was the one who called him�so he must have figured I was ready to give in. We both misunderstood each other, I guess
+
+Anyway, after standing in front of the hotel for a few minutes, I went back in and saw a young man at the front desk. I explained my situation to him�he was kind enough to give me N100 and that was the money that took me half way home. By the time I got to Yaba, I�d run out of cash, so I trekked from Yaba bus stop to UNILAG Akoka. I remember saying to myself while I was trekking with tears in my eyes, that one day I�m going to make something of myself�every money I make in this world would be my own hard earned money�I don�t care how bad it gets, no man is ever going to take away my self-respect�that� s all I have!
+
+And that�s the way I lived. Determined to make it in life. On my own terms. As my own woman. I kept struggling and struggling until God finally blessed me.
+
+Now I have more money than I even know what to do with it. I make millions of Naira from what I love doing�blogging. The best part of all this is that I would blog for free. Now I don�t chase money anymore�it chases me. It�s not even just about the money, it�s the great friends I�ve met via this blog, the wonderful people I interact with here, and the freebies I get. How much of a big deal I am to some people.
+
+How some people see me in person and scream with excitement and want to take photos with me. Sometimes I pinch myself�I almost can�t believe this is my life.
+Once in a while I think of that 19 year old girl who trekked for miles to school because she would not sell her body and I say to her, we made it, Linda, we made it!
+
+So maybe I�m not a role model in terms of what I do, but I know I�m definitely a role model as a young woman. To all the young girls out there, if you�re reading this, you can make it on your own. You don�t need to spread your legs for men, you don�t need these old married men who just take your glory. You�re strong, you�re beautiful, there�s nothing you can�t achieve on your own. God has given you something no one else has. Find what it is and build yourself. Don�t worry about what other girls around you have. Dignity is far more valuable than a range rover. Make it in life on your own terms and as your own woman, so that you can look back one day and be proud of who you were and who you are.
+
+"
+                android:textColor="#000000"
+                android:textSize="20sp" />
+
+
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>

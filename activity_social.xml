@@ -1,0 +1,478 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#990000"
+    android:orientation="vertical"
+    tools:context=".introduction">
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:background="#ffffff"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="15dp"
+                android:text="PRINCIPLES OF SOCIAL RETURNS"
+                android:textAlignment="center"
+                android:textAllCaps="true"
+                android:textColor="#000000"
+                android:textSize="30sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="15dp"
+                android:fontFamily="sans-serif"
+                android:paddingLeft="8dp"
+                android:paddingRight="8dp"
+                android:text="Giving is a natural law, it is not religious, it works the same KARMA does. The statement &quot;givers never lack&quot;, is true in all ratifications."
+                android:textColor="#000000"
+                android:textSize="20sp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="3dp"
+                android:fontFamily="sans-serif"
+                android:paddingLeft="8dp"
+                android:paddingRight="8dp"
+                android:text="Let's experiment it, "
+                android:textColor="#000000"
+                android:textSize="20sp" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="3dp"
+                android:fontFamily="sans-serif"
+                android:paddingLeft="8dp"
+                android:paddingRight="8dp"
+                android:text="Close your palms with money as its content, now with that same hand closed try to collect another money from a person, it becomes difficult right, even if you can collect it, once you try it two to thred times withoit reducing the contents if the hand, then either everything goes down when you try to collect again or you won't be able to collect at all."
+                android:textColor="#000000"
+                android:textSize="20sp" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="3dp"
+                android:fontFamily="sans-serif"
+                android:paddingLeft="8dp"
+                android:paddingRight="8dp"
+                android:text="Here’s an important life lesson: no matter how tough you think your life is there’s always someone who has to face challenges that are even tougher than yours.And it goes in many different directions. Not only basic things like making money, getting food, or having a place to rest at night, but also the possibility of taking part in some entrepreneurial projects or getting proper education."
+                android:textColor="#000000"
+                android:textSize="20sp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="7dp"
+                android:layout_marginBottom="7dp"
+                android:fontFamily="sans-serif"
+                android:textStyle="italic"
+                android:paddingLeft="8dp"
+                android:paddingRight="8dp"
+                android:text="&quot;Giving back to the society is one of the most important thing and valuable thing an entreprenuer can do.&quot;"
+                android:textColor="#000000"
+                android:textSize="20sp" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="3dp"
+                android:fontFamily="sans-serif"
+                android:paddingLeft="8dp"
+                android:paddingRight="8dp"
+                android:text="When i say giving back, i don't mean &quot;offering a cheap product,&quot; or &quot;doing something for free in exchange for advertising space.&quot; This isn’t giving back. This is simply business."
+                android:textColor="#000000"
+                android:textSize="20sp" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="3dp"
+                android:fontFamily="sans-serif"
+                android:paddingLeft="8dp"
+                android:paddingRight="8dp"
+                android:text="Giving back is where you give, and then nothing happens. No benefits for you, no recognition, nothing tangible gets sent your way. Your biggest and sole reward is the realization that you’ve made a significant change in someone’s life. And if not &quot;significant&quot; then a positive change nevertheless."
+                android:textColor="#000000"
+                android:textSize="20sp" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="3dp"
+                android:fontFamily="sans-serif"
+                android:textStyle="normal"
+                android:paddingLeft="8dp"
+                android:paddingRight="8dp"
+                android:text="Every year bill gates donates a certain amount to some african countries, but guess what many of us did not really know about this, i can really tell that about 70% of nigerians don't know about this, but still he is the second richest man in the world. You just have to know that giving is not to make fame, but to rather touch lives, see it possible that every one in the society feels your presence, know your significance and believe there is a reward. But as a giver, you are not concerned about it, but you are much more concerned about the live you are touching."
+                android:textColor="#000000"
+                android:textSize="20sp" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="3dp"
+                android:fontFamily="sans-serif"
+                android:paddingLeft="8dp"
+                android:paddingRight="8dp"
+                android:text="This chapter was not written to help your business or empire grow, but to grow you personally as a human being and make a lot of other people happy if you decide to take action on the advice."
+                android:textColor="#000000"
+                android:textSize="20sp" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="2dp"
+                android:fontFamily="sans-serif"
+                android:paddingLeft="8dp"
+                android:paddingRight="8dp"
+                android:text="There was a particular day at the church, i asked my self, why do we pay tithe, i mean why do i have to pay tithe and offerings, can i just pay one forget the other one."
+                android:textColor="#000000"
+                android:textSize="20sp" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="3dp"
+                android:fontFamily="sans-serif"
+                android:paddingLeft="8dp"
+                android:paddingRight="8dp"
+                android:text="Then it struck me, in his scripture, he said, &quot;Bring ye all the tithes into the storehouse, that there may be meat in mine house, and prove me now herewith&quot;- malachi 3:10a"
+                android:textColor="#000000"
+                android:textSize="20sp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="3dp"
+                android:fontFamily="sans-serif"
+                android:paddingLeft="8dp"
+                android:paddingRight="8dp"
+                android:text="From the scripture above, he said you bring your tithe into his storehouse, so there would be food in his house, that is either food, money. If you are a farmer, who harvest crops you can bring 1/10 of your harvest, but checking the world today unlike the old days, the generally accepted commodity is money, there its best you bring money, but if you don't have, then 1/10 of whatever you record as your return in investment bring to his store house so that there might be food in his house, food for the less priviledge, for the needy, for those struggling with life, for the homeless. In this way, you are touching the society and making impact. But most times people refuse to use this process, because they fill the church head(pastor) takes advantage of this opportunity, but i stand to correct you that, it doesn't matter, what the money is used for, all you should be concerned with is whom you are giving to."
+                android:textColor="#000000"
+                android:textSize="20sp" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="3dp"
+                android:fontFamily="sans-serif"
+                android:paddingLeft="8dp"
+                android:paddingRight="8dp"
+                android:text="Illustration;"
+                android:textColor="#000000"
+                android:textSize="20sp" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="3dp"
+                android:fontFamily="sans-serif"
+                android:paddingLeft="8dp"
+                android:paddingRight="8dp"
+                android:text="Let's look at Mr A, B, C."
+                android:textColor="#000000"
+                android:textSize="20sp" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="3dp"
+                android:fontFamily="sans-serif"
+                android:paddingLeft="8dp"
+                android:paddingRight="8dp"
+                android:text="A is to give C something, but since he can't see him, C said he should give it to B and C gave B instruction to carry out with whatever thing given to him by A."
+                android:textColor="#000000"
+                android:textSize="20sp" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="3dp"
+                android:fontFamily="sans-serif"
+                android:paddingLeft="8dp"
+                android:paddingRight="8dp"
+                android:text="That B didn't do what was asked of him, is not A's concern,  he has done what C wants him to do, the problem now becomes between B and C, and C has all rights to do whatsoever he wants to do with B."
+                android:textColor="#000000"
+                android:textSize="20sp" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="3dp"
+                android:fontFamily="sans-serif"
+                android:paddingLeft="8dp"
+                android:paddingRight="8dp"
+                android:text="In this context, we are Mr A, where as Mr B is the church head(Pastor) and Mr C is God."
+                android:textColor="#000000"
+                android:textSize="20sp" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="3dp"
+                android:fontFamily="sans-serif"
+                android:paddingLeft="8dp"
+                android:paddingRight="8dp"
+                android:text="But paying tithe is not actually the only way to give back to the society, you can visit the orphanage, give gifts to the children no matter how small. Go to hospitals foot some persons bill."
+                android:textColor="#000000"
+                android:textSize="20sp" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="4dp"
+                android:fontFamily="sans-serif"
+                android:paddingLeft="8dp"
+                android:paddingRight="8dp"
+                android:text="A certain man, who is neither a christian nor a muslim, was asked why do you excel this much in business, he replied, &quot;I have not forgotten the pronciples of giving.&quot; It is reciprocal, &quot;Blessed is the hand that giveth, than the one who taketh&quot;, and mind you, dont give because you just want to fulfil righteousness, give from the heart, from within. "
+                android:textColor="#000000"
+                android:textSize="20sp" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="3dp"
+                android:fontFamily="sans-serif"
+                android:paddingLeft="8dp"
+                android:paddingRight="8dp"
+                android:text="You can give through online charities, fund raisers to support youths and many more."
+                android:textColor="#000000"
+                android:textSize="20sp" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dp"
+                android:fontFamily="sans-serif"
+                android:paddingLeft="8dp"
+                android:paddingRight="8dp"
+                android:text="Finally, i would outline 10 importance of giving, so you can be directional."
+                android:textColor="#000000"
+                android:textSize="20sp" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dp"
+                android:layout_marginBottom="5dp"
+                android:fontFamily="sans-serif"
+                android:paddingLeft="8dp"
+                android:paddingRight="8dp"
+                android:text="1. It Creates a Feeling of Gratitude:"
+                android:textColor="#000000"
+                android:textSize="20sp"/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="3dp"
+                android:fontFamily="sans-serif"
+                android:paddingLeft="8dp"
+                android:paddingRight="8dp"
+                android:text="Feelings of compassion, humanity and a sense of appreciation awakens when we give to people. There is nothing greater to centre our focus in this world than beginning to understand just how much we have to be grateful for. This comes from being in direct contact with the act of giving to people who are less fortunate than ourselves."
+                android:textColor="#000000"
+                android:textSize="20sp" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="4dp"
+                android:fontFamily="sans-serif"
+                android:paddingLeft="8dp"
+                android:paddingRight="8dp"
+                android:text="2. Giving encourages a culture of giving"
+                android:textColor="#000000"
+                android:textSize="20sp" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="2dp"
+                android:fontFamily="sans-serif"
+                android:paddingLeft="8dp"
+                android:paddingRight="8dp"
+                android:text="Behaviours are contagious. If people see you or other people giving back to society in some shape or form, it is likely to be an idea that sticks with them. Many people who give back to society have been inspired by someone in their community or environment who had done so."
+                android:textColor="#000000"
+                android:textSize="20sp" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="4dp"
+                android:fontFamily="sans-serif"
+                android:paddingLeft="8dp"
+                android:paddingRight="8dp"
+                android:text="3.Strengthens communities and nations:"
+                android:textColor="#000000"
+                android:textSize="20sp" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="3dp"
+                android:fontFamily="sans-serif"
+                android:paddingLeft="8dp"
+                android:paddingRight="8dp"
+                android:text="Giving encourages dialogue between people, communities and nations in ways that people would not ordinarily have experienced before. When people choose to give, they unite from different sectors and communities in the name of a common cause. This is a key contributing factor in strengthening communities and nation-building."
+                android:textColor="#000000"
+                android:textSize="20sp" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="4dp"
+                android:fontFamily="sans-serif"
+                android:paddingLeft="8dp"
+                android:paddingRight="8dp"
+                android:text="4.Alleviates poverty, struggling and suffering:"
+                android:textColor="#000000"
+                android:textSize="20sp" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="3dp"
+                android:fontFamily="sans-serif"
+                android:paddingLeft="8dp"
+                android:paddingRight="8dp"
+                android:text="On an absolutely practical level when you find ways to give back to society, this helps to provide some instant relief from poverty, struggling and suffering. Even if a long-term, sustainable solution is needed, people still need food in their mouths, clothes on their back and access to basic sanitation in the immediate moment. This can be achieved in a number of different ways. You can donate to a cause, become a volunteer or be involved in corporate giving."
+                android:textColor="#000000"
+                android:textSize="20sp" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="4dp"
+                android:fontFamily="sans-serif"
+                android:paddingLeft="8dp"
+                android:paddingRight="8dp"
+                android:text="5.It helps you to share resources:"
+                android:textColor="#000000"
+                android:textSize="20sp" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="3dp"
+                android:fontFamily="sans-serif"
+                android:paddingLeft="8dp"
+                android:paddingRight="8dp"
+                android:text="On an absolutely practical level when you find ways to give back to society, this helps to provide some instant relief from poverty, struggling and suffering. Even if a long-term, sustainable solution is needed, people still need food in their mouths, clothes on their back and access to basic sanitation in the immediate moment. This can be achieved in a number of different ways. You can donate to a cause, become a volunteer or be involved in corporate giving."
+                android:textColor="#000000"
+                android:textSize="20sp" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="4dp"
+                android:fontFamily="sans-serif"
+                android:paddingLeft="8dp"
+                android:paddingRight="8dp"
+                android:text="6. Creates a nation of emotionally aware people:"
+                android:textColor="#000000"
+                android:textSize="20sp" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="3dp"
+                android:fontFamily="sans-serif"
+                android:paddingLeft="8dp"
+                android:paddingRight="8dp"
+                android:text="It is easy for us to fall into a sense of moral sleep when we are not faced with the realities of people who are less fortunate than us. Once we make the conscious effort to get out there and give to people we have greater emotional awareness and this helps us to become emotionally intelligent people."
+                android:textColor="#000000"
+                android:textSize="20sp" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="4dp"
+                android:fontFamily="sans-serif"
+                android:paddingLeft="8dp"
+                android:paddingRight="8dp"
+                android:text="7. Provides people with the building blocks for their future development"
+                android:textColor="#000000"
+                android:textSize="20sp" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="3dp"
+                android:fontFamily="sans-serif"
+                android:paddingLeft="8dp"
+                android:paddingRight="8dp"
+                android:text="If for example you are giving back to society through a feeding or housing scheme, you will be providing the essential building blocks for a child’s future development. Through a sequence of events, you help influence whether they able to study or have the presence of mind to get an education."
+                android:textColor="#000000"
+                android:textSize="20sp" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="4dp"
+                android:fontFamily="sans-serif"
+                android:paddingLeft="8dp"
+                android:paddingRight="8dp"
+                android:text="8. You will grow as a person"
+                android:textColor="#000000"
+                android:textSize="20sp" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="3dp"
+                android:fontFamily="sans-serif"
+                android:paddingLeft="8dp"
+                android:paddingRight="8dp"
+                android:text="When you are engaged in philanthropic and humanitarian activities you somehow can’t help but be touched as a human being. Your emotional awareness increases, your care and consideration for others is awakened and you are exposed to new and different people. You will grow as a person."
+                android:textColor="#000000"
+                android:textSize="20sp" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="4dp"
+                android:fontFamily="sans-serif"
+                android:paddingLeft="8dp"
+                android:paddingRight="8dp"
+                android:text="9. Enjoy the Health Benefits of Giving Back"
+                android:textColor="#000000"
+                android:textSize="20sp" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="3dp"
+                android:fontFamily="sans-serif"
+                android:paddingLeft="8dp"
+                android:paddingRight="8dp"
+                android:text="On a physical level, you are bound to experience an increase in your levels of wellbeing when you give back to society. Givers on a whole, experience a boost in morale, increased feelings of happiness, greater purpose in life and naturally lower stress levels."
+                android:textColor="#000000"
+                android:textSize="20sp" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="4dp"
+                android:fontFamily="sans-serif"
+                android:paddingLeft="8dp"
+                android:paddingRight="8dp"
+                android:text="10. Feeling of content."
+                android:textColor="#000000"
+                android:textSize="20sp" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="3dp"
+                android:fontFamily="sans-serif"
+                android:paddingLeft="8dp"
+                android:paddingRight="8dp"
+                android:text="Deep down inside, we all want to feel that we contributed, added value and had some kind of meaning and purpose in our lives. Giving to others helps to feel that we’ve made that difference and helped to alleviate the crisis in somebody else’s life."
+                android:textColor="#000000"
+                android:textSize="20sp" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="3dp"
+                android:fontFamily="sans-serif"
+                android:paddingLeft="8dp"
+                android:paddingRight="8dp"
+                android:text="Whichever way you look at it, giving back to society has profound benefits for both the giver and the recipient. The potential for strengthening people and nations through giving back to society is huge and something that we all need to consider looking into. Here’s hoping that you are inspired to give and contribute to society in whichever shape or form in your life. It does not have to be big, start with the little you have."
+                android:textColor="#000000"
+                android:textSize="20sp" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="7dp"
+                android:layout_marginBottom="7dp"
+                android:textStyle="italic"
+                android:fontFamily="sans-serif"
+                android:paddingLeft="8dp"
+                android:paddingRight="8dp"
+                android:text="&quot;In africa there is a concept know has 'ubuntu'- the profound sense that we are humans only through the humanity of others, if we are to accomplish anything in this world, it will in equal measure be due to the work and achievements of others.&quot;- NELSON MANDELA."
+                android:textColor="#000000"
+                android:textSize="20sp" />
+
+
+
+
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>

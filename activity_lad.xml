@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#990000"
+    android:orientation="vertical"
+    tools:context=".introduction">
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:background="#ffffff"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="15dp"
+                android:text="CONCEPT OF LIGHT AND DARKNESS"
+                android:textAlignment="center"
+                android:textAllCaps="true"
+                android:textColor="#000000"
+                android:textSize="30sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="15dp"
+                android:fontFamily="sans-serif"
+                android:paddingLeft="8dp"
+                android:paddingRight="8dp"
+                android:text="A man lives in a three bedroom flat that has no light.&#xD;
+Then he bought a generator, which powered only two rooms leaving the last room dark. Then his wife bought a torch, but was only using this torch for the rooms with light. You would say she is not okay right?&#xD;
+But this scenario has been the problem of many youths and soon to be entrepreneurs. They look for solution for a problem that has already been solved instead of either finding a new problem that can be solved or look for loop holes in the solution.&#xD;
+Amaizu Melody said, &quot;Entrepreneurship is not mathematics, you don't get the same answer for one question.&quot;&#xD;
+In entrepreneurship one problem can yield different solution dependent on the solution of the other. This brings us to the theory of Light and darkness has it relates to success.&#xD;
+From the story above, lets take the man and his wife has two entrepreneurs, and the generator has a problem solved by the man then the torch has another solution, then the darkness as the problem.&#xD;
+Theory says, &quot;Of what essence is light in a place that has been fully lightened.&quot;"
+                android:textColor="#000000"
+                android:textSize="20sp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="3dp"
+                android:fontFamily="sans-serif"
+                android:paddingLeft="8dp"
+                android:paddingRight="8dp"
+                android:text="This man had a problem, he brought a solution to this problem, but only to two rooms, leaving the last room. Then the wife (another entrepreneur) brought a solution, but her solution was for a problem that has been solved, forgetting that there is still a problem even in the solution made by the man,which was the last room.&#xD;
+If the wife had used the torch in the last room, there should be light in the full house or better still bring a device that would power the full house (including the last room).&#xD;
+In essence, are you seeking for an idea, planning a start up? Do not use torch light or light providing device in a place where there is already light. I.e do not seek for solution in a place where there is solution, but rather look for loop holes in the already solved problem, or find a solution to another problem entirely.&#xD;
+Theory of light and darkness is majorly concerned with the opportunity mindset of entrepreneurs, their ability to be able to detect opportunities from far sight, be able to use the available to do the impossible.&#xD;"
+                android:textColor="#000000"
+                android:textSize="20sp" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="6dp"
+                android:textStyle="bold"
+                android:fontFamily="sans-serif"
+                android:paddingLeft="8dp"
+                android:paddingRight="8dp"
+                android:text="WHAT ARE OPPORTUNITIES?"
+                android:textColor="#000000"
+                android:textSize="20sp" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="3dp"
+                android:fontFamily="sans-serif"
+                android:paddingLeft="8dp"
+                android:paddingRight="8dp"
+                android:text="A good chance for advancement or progress, a set of circumstances that makes it possible to do something.&#xD;
+People often wait for opportunities, but is it worth waiting for opportunities? My answer? No, it isn't.&#xD;
+First of all you can't depend on pure luck, you never know if  you will be granted with a great opportunity or not. So why do you want to be dependent on luck? Instead you could be and should be dependent on yourself. This is the only sure way you know you will be granted with an opportunity.&#xD;
+Opportunities are missed by most people because they don't realise they've encountered such.  Here is one of those basic laws in life: There will always be opportunities for those who recognise and pursue them. The lucky people are simply those who have taken more chances than average.&#xD;
+Why Wait For The Opportunity? Create Opportunities By Yourself!&#xD;
+"
+                android:textColor="#000000"
+                android:textSize="20sp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dp"
+                android:textStyle="bold"
+                android:fontFamily="sans-serif"
+                android:paddingLeft="8dp"
+                android:paddingRight="8dp"
+                android:text="HOW?"
+                android:textColor="#000000"
+                android:textSize="20sp" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="3dp"
+                android:fontFamily="sans-serif"
+                android:paddingLeft="8dp"
+                android:paddingRight="8dp"
+                android:text="1. KNOW YOUR LIMITS- You can't be perfect. You can't do everything yourself. You can't create a business or live the life of your dreams or make a lot of money if you don't know your weaknesses, strengths and passions. If you know your limits and what you are capable of, you will know exactly what you need. Once you begin to know yourself, you will realise your weakness and you can fill these weaknesses with others people strength."
+                android:textColor="#000000"
+                android:textSize="20sp" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dp"
+                android:fontFamily="sans-serif"
+                android:textStyle="italic"
+                android:paddingLeft="8dp"
+                android:paddingRight="8dp"
+                android:text="2. BE VIGILANT -  There is a lot more happening in the world than you see. Stop listening to music all the time you are riding the bus or the train. Maybe there is someone who can change your life in that bus/train. Maybe the person sitting next to you is your next business partner or your husband/wife or your new best friend. You just never know, life is unpredictable, and that's why you should always keep your eyes wide open.  You might miss an opportunity simply because you were too busy listening to your iPod. Always be on the lookout even when doing simple activities as drinking coffee, riding the bus or walking back home."
+                android:textColor="#000000"
+                android:textSize="20sp" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="3dp"
+                android:fontFamily="sans-serif"
+                android:textStyle="normal"
+                android:paddingLeft="8dp"
+                android:paddingRight="8dp"
+                android:text="3. NETWORK - If you want to be presented with more opportunities, simply meet new people. The more people you know, the higher chances you will be presented with new experiences. Go to meetings with people having similar interests as you. Visit conferences. You can even meet people online these days; join different Facebook groups, follow people on twitter; join LinkedIn. People are not so mean as you think. Be able to social network."
+                android:textColor="#000000"
+                android:textSize="20sp" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="3dp"
+                android:fontFamily="sans-serif"
+                android:paddingLeft="8dp"
+                android:paddingRight="8dp"
+                android:text="4. DON'T BE AFRAID TO ASK - Just DON'T! There is no shame in not knowing something, and there is no shame in questioning things. Do you know how I got my first job? I simply asked the manager could I work here and after he interrogated me a bit he said; Yes. So I found a job by simply asking a question in a company that wasn't looking for employees. Most people would gladly help you if you asked them nicely for some help. People are not monsters, most of us are good and kind. You just have to ask the right way."
+                android:textColor="#000000"
+                android:textSize="20sp" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="3dp"
+                android:fontFamily="sans-serif"
+                android:paddingLeft="8dp"
+                android:paddingRight="8dp"
+                android:text="5. DON'T BE AFRAID TO TRY A NEW METHOD - Let me fill you in on a brief story;&#xD;;
+There was a man, in his country blogging was not something people make money out of. There most people don't even know what blogging is and when he decided that he wanted to blog, people laughed at me and told him to find myself a serious job. But he didn't think so; He knew he could create a successful blog himself and that all happened. And in the end he did. Now he is earning x5 more than what his friends are earning. He works from home, He works when he  wants to and The best is that. He is doing something meaningful; He is helping people and I love that. He  wasn't afraid to go out of the box. Just because the masses of people think something is wrong, doesn't mean they are right."
+                android:textColor="#000000"
+                android:textSize="20sp" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="3dp"
+                android:fontFamily="sans-serif"
+                android:paddingLeft="8dp"
+                android:paddingRight="8dp"
+                android:text="6. BUILD SELF-CONFIDENCE - You can't make people follow you if you don't look confident. That's why you need confidence, you need to be sure 120% the things will workout right in the end if you want other people to believe you as well. It might be fake confidence, but you need to have it. Most people follow the leaders even when they make bad decisions simply because of their leadership status. And if you could make people follow you, you will surely be able to create a lot of opportunities for yourself/ your company/ your work place."
+                android:textColor="#000000"
+                android:textSize="20sp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="3dp"
+                android:fontFamily="sans-serif"
+                android:paddingLeft="8dp"
+                android:paddingRight="8dp"
+                android:text="7. DO NOT STOP LEARNING - Learning is a process that never ends. You can always learn something new. Always maintain the attitude of student. If you think you are done learning, bitterness set in, but if you have more to achieve every day, in any arena, that makes each morning's awakening full of potential and cheery portent."
+                android:textColor="#000000"
+                android:textSize="20sp" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="3dp"
+                android:fontFamily="sans-serif"
+                android:paddingLeft="8dp"
+                android:paddingRight="8dp"
+                android:text="8. ACT FAST - You will never get presented with opportunities by sitting and watching TV all day. Go out, feel, see, be and take part of live. If you are active and always on the lookout you will always end up on the right place in the right moment."
+                android:textColor="#000000"
+                android:textSize="20sp" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="3dp"
+                android:fontFamily="sans-serif"
+                android:paddingLeft="8dp"
+                android:paddingRight="8dp"
+                android:text="There is this popular saying that opportunity comes but once, This saying is wrong, i would be proving the fact that opportunity does not come once, but it can created.&#xD;
+See this context, If you have been looking for job and you have not seen, then you start hoping on opportunity, but what if you can make this job come look for you, will you be willing to take the step, or do what it takes.&#xD;"
+                android:textColor="#000000"
+                android:textSize="20sp" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="3dp"
+                android:layout_marginBottom="3dp"
+                android:fontFamily="sans-serif"
+                android:textStyle="italic"
+                android:paddingLeft="8dp"
+                android:paddingRight="8dp"
+                android:text="&quot;Opportunity doesn't come but once, but rather it can be created by whosoever that needs it.&quot;"
+                android:textColor="#000000"
+                android:textSize="20sp" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="3dp"
+                android:fontFamily="sans-serif"
+                android:paddingLeft="8dp"
+                android:paddingRight="8dp"
+                android:text="You should learn to create your own opportunities, build possibilities,make this opportunity come to you, don't make it look like a one time thing.&#xD;
+From the story above, the dark room was a complete reason for the woman to start her business, i.e the man's solution was not a complete solution, but in there is an opportunity that can be created, how? &#xD;
+Like i formerly said, every entrepreneur must be farsighted and be able to detect foetal opportunities, If she had focused more on the dark room and develop or introduced a device that works on the deficiency of the previous solution, then she would have created an opportunity of being the top seller or producer of a product,because with her solution, she has created room for opportunities.&#xD;
+Be able to create opportunities and also be able to optimize them, to its fullest."
+                android:textColor="#000000"
+                android:textSize="20sp" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="3dp"
+                android:fontFamily="sans-serif"
+                android:paddingLeft="8dp"
+                android:paddingRight="8dp"
+                android:text="&quot; IF OPPORTUNITY DOESN'T KNOCK, CREATE A DOOR. &quot;- Milton berre."
+                android:textColor="#000000"
+                android:textSize="20sp" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="3dp"
+                android:fontFamily="sans-serif"
+                android:paddingLeft="8dp"
+                android:paddingRight="8dp"
+                android:text="In conclusion, As entrepreneurs or someone aspiring to be successful, you have to be able to make possibilities in the impossible. There is no problem without a solution."
+                android:textColor="#000000"
+                android:textSize="20sp" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dp"
+                android:fontFamily="sans-serif"
+                android:paddingLeft="8dp"
+                android:paddingRight="8dp"
+                android:text="Let me tell you the story of my parents;"
+                android:textColor="#000000"
+                android:textSize="20sp" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="4dp"
+                android:fontFamily="sans-serif"
+                android:paddingLeft="8dp"
+                android:paddingRight="8dp"
+                android:text="My parents owns and runs a musical business, although dad is a retired architectural engineer.&#xD;
+In the early stage of their business, there was a challenge, that year, they had a heavy down pour of rain, coupled with the bad roads around the market.&#xD;
+But there was this shop that had it full intents(drums) soaked, due to the rain. The owner was an importer, he just imported drums into the country and boom the rain did that.&#xD;
+The importer planned throwing away the goods, but my parents new into the business decided to buy the soaked goods and then refine it(i.e make it look good) and store it.&#xD;
+Then during the end of that year, december precisely, these goods became scarce, there was no drums in the market, His shop became the major source buying drums.&#xD;
+From thus story  you will connote that they didn't wait for opportunity, but rather created it.&#xD;"
+                android:textColor="#000000"
+                android:textSize="20sp" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dp"
+                android:layout_marginBottom="5dp"
+                android:fontFamily="sans-serif"
+                android:textStyle="italic"
+                android:paddingLeft="8dp"
+                android:paddingRight="8dp"
+                android:text="&quot; We see opportunities as opportunities only when we are ready to see them, otherwise we see them as difficulties. &quot; Hristiqn Nikolov"
+                android:textColor="#000000"
+                android:textSize="20sp" />
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>

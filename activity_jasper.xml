@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#990000"
+    android:orientation="vertical"
+    tools:context=".introduction">
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:background="#ffffff"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="15dp"
+                android:text="ekeh jasper"
+                android:textAlignment="center"
+                android:textAllCaps="true"
+                android:textColor="#000000"
+                android:textSize="30sp"
+                android:textStyle="bold" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="12dp"
+                android:text="MY PROFILE:"
+                android:textAlignment="center"
+                android:textAllCaps="true"
+                android:textColor="#000000"
+                android:textSize="25sp"
+                android:textStyle="bold" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dp"
+                android:fontFamily="sans-serif"
+                android:paddingLeft="8dp"
+                android:paddingRight="8dp"
+                android:text="My name is Jasper Ekeh Chukwuemeka, A student of Federal University of Technology Owerri, in the department of Information Management Technology."
+                android:textColor="#000000"
+                android:textSize="20sp" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="3dp"
+                android:text="HOW I STARTED:"
+                android:textAlignment="center"
+                android:textAllCaps="true"
+                android:textColor="#000000"
+                android:textSize="30sp"
+                android:textStyle="bold" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="3dp"
+                android:fontFamily="sans-serif"
+                android:paddingLeft="8dp"
+                android:paddingRight="8dp"
+                android:text="Having gone through a little taste of life for some years of life�s malignant events, I came to the lucid conclusion that this guy called �LIFE� is no respecter of a lazy man! I finished high school in 2013, Went for a Pre - Degree course in Obafemi Awolowo University where my parents spent closely two hundred thousand naira (200,000N) which she borrowed from my course mate�s sister right in my presence.
+
+            I saw all the transaction go on yet, I didn�t have all the motivation I needed yet to go after books as much as I should. However, I got admission into the Prestigious OAU where I spent one year of my life trying to figure out what I actually wanted in life. My mates will be reading, I�ll either be rehearsing piano or I will be with my friend�s laptop trying to learn something techy. On the long run, I didn�t get admission, but my friend whom we were doing the Pre � Degree with got admission. How disappointing! How can I tell my mum this, I actually had to tell her the truth and await what�s next for me. Of course, she got high blood pressure and the likes, crying, being disappointed in me, but a positively stubborn child is always a positively stubborn child.
+
+            I stayed one year at home again as a punishment for wasting my time in Obafemi Awolowo University. That was one of the best and worst years of my life. I saw my mates getting admission, while I toil around the streets of Lagos in the bid to hustle, From Playing Music for churches to teaching computer in almost 10 different schools, just to make ends meet, all these I did to keep giving my self hope. Although I got to learn a few things while in the streets.
+
+            Finally, I applied for FUTO the next year, and got admitted without stress. That was another phase of intensified hustle . In the course to be self-dependent, fullfilled and successful, I ventured into engine drawing so as to get little finance to sustain my self in school, I stay up the night putting up drawings that I�ll sell just to get some more money. It was very stressful. Obviously, I wasn�t satisfied, I kept thinking, WHAT NEXT!
+
+            Therein after, I asked my mum to get me a laptop which she refused, saying she will get me one during my 200 Level. How Sad and late!  I had to hustle and get a laptop my self without her consent. A laptop without life actually, that was what I used to learn a craft which have paved great way for me as well as some students that I�ve taught over time.  I met Shaokhan who helped brush my design skills though he was busy, but he still gave me his time. He is God Sent. My designs were rejected, some clients used them without paying, but I still endured and kept being resilient, because I had a focus, which is to be one of the best graphic designers, not just in FUTO, but, in Nigeria at large.
+
+            Today, I�ve worked with really great brands, I�ve worked for big companies and I believe more are on its way. I have a dream to be a multi � purpose industrialist. The vision keeps getting pellucid by the day.
+
+            Having come this far, I�ve come to the conclusion that with God first, what so ever you vividly imagine, ardently desire, sincerely believe and enthusiastically act upon must inevitably come to materialize. It�s all a matter of resilience and patience.
+
+            This is my little story!
+
+            Keep Rising! Keep Learning."
+                android:textColor="#000000"
+                android:textSize="20sp" />
+
+
+
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#990000"
+    android:orientation="vertical"
+    tools:context=".introduction">
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:background="#ffffff"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="15dp"
+                android:text="kachi ogbonna"
+                android:textAlignment="center"
+                android:textAllCaps="true"
+                android:textColor="#000000"
+                android:textSize="30sp"
+                android:textStyle="bold" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="12dp"
+                android:text="CHALLENGES FACED"
+                android:textAlignment="center"
+                android:textAllCaps="true"
+                android:textColor="#000000"
+                android:textSize="25sp"
+                android:textStyle="bold" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dp"
+                android:fontFamily="sans-serif"
+                android:paddingLeft="8dp"
+                android:paddingRight="8dp"
+                android:text="As a student entrepreneur the biggest challenge I faced was lack of a mentor to provide direction. I made so many costly mistakes that could have been avoided if I had access to a mentor. This is the reason I run HTS Mentorship Club today and I am particularly passionate about helping students entrepreneurs to avoid every mistake I made.
+HOW IT HAS BEEN - THE JOURNEY SO FAR
+Due to my lack of experience I couldn't sustain the businesses I started in school. So during my NYSC I started searching for new opportunities to start all over, after few months of hustling it out in the streets of Lagos and battling with traffic on my 9 to 5 job I told myself that it was time to focus on the thing that gives me joy - educating young people on the way out of the unemployment crisis in the country. I started organising entrepreneurship summit across the country, but along the line I discovered that a lot of people don't believe one can successfully build a business in a difficult environment like Nigeria. So I set out to find out how some of the innovative brands in Nigeria started, I wanted to find out how those build who built successful businesses in Nigeria did it. Unfortunately I couldn't find any book on that so I decided to write one. This is one thing I have always challenged young people about in Nigeria, if you can't find the solution to the problems around you, rather than complain, go ahead and be that solution you desire.
+So, I decided to embark on a research to find out How Dangote, Globacom,  Coscharis, InterSwitch, Zinox, Jumia and other Nigerian brands started.
+
+Though it was difficult to get across to the founders of these brands, but with persistence I was able to pull through.
+
+That book titled HOW THEY STARTED ended up being instrumental to the growing of my brand today.
+
+From there, I have founded different businesses including HTS Business School and HTS Shuttle Services which is the first intracity transport company in Nigeria
+"
+                android:textColor="#000000"
+                android:textSize="20sp" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="3dp"
+                android:text="MY MOTIVATION"
+                android:textAlignment="center"
+                android:textAllCaps="true"
+                android:textColor="#000000"
+                android:textSize="30sp"
+                android:textStyle="bold" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="3dp"
+                android:fontFamily="sans-serif"
+                android:paddingLeft="8dp"
+                android:paddingRight="8dp"
+                android:text="My motivation has always been to help solve the unemployment problems we have in Nigeria. It pains me to see graduates roaming the streets in the name of looking for a job after sending years in the university. Because I believe Nigerian youth have what it takes to build global businesses I seek every opportunity to change the mindset that they are not good enough
+HOW I OVERCOMED MY CHALLENGES
+Each time I fail I tried to learn from the mistakes.
+After school I decided to attend as many seminars as I can, I attended several paid training and I even had to enrol in CVL Mentorship programme of Prof. Pat Utomi and that was one of the turning point for my career. Through these forum and programmes I learnt a lot about how to build structures around my business.
+Even when things are not working well I try to stay positive and with persistence I always overcome
+ MY ADVICE
+Young entrepreneurs often believe that money is everything but I don't think so. I advise them to go for knowledge, I advise the to go for personal development, I advise them to look out for mentors who can help them get better in life. I have started a business worth millions yet my one kobo did not enter into it. I learnt how to leverage, I learnt how to build with other peoples money and I also learnt to build systems, all these are more important than money.
+Next advice I have for them is that they should learn not to run away from problems, because problems are opportunities
+"
+                android:textColor="#000000"
+                android:textSize="20sp" />
+
+
+
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>

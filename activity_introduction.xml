@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#990000"
+    android:orientation="vertical"
+    tools:context=".introduction">
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:background="#ffffff"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="15dp"
+                android:text="introduction"
+                android:textAlignment="center"
+                android:textAllCaps="true"
+                android:textColor="#000000"
+                android:textSize="30sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="15dp"
+                android:fontFamily="sans-serif"
+                android:paddingLeft="8dp"
+                android:paddingRight="8dp"
+                android:text="Quoting  MARTIN LUTHER KING, In one of his speeches,  He said  &quot;this is the most important and crucial period of your life, for what you do now or what you decide now, may well be determined which way your life shall go, the question is whether you have a proper, a solid and a sound blueprint of your life&quot;&#xD;And i want to suggest something that should be in your life's blueprint;"
+                android:textColor="#000000"
+                android:textSize="20sp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dp"
+                android:fontFamily="sans-serif"
+                android:paddingLeft="8dp"
+                android:paddingRight="8dp"
+                android:text="1. BELIEVE IN YOURSELF:"
+                android:textColor="#000000"
+                android:textStyle="bold"
+                android:textSize="20sp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="3dp"
+                android:fontFamily="sans-serif"
+                android:paddingLeft="8dp"
+                android:paddingRight="8dp"
+                android:text="You should a have a deep believe in your worth, your kind, your personality, your own dignity and your somebodiness. don't allow anybody make you feel that you are nobody, dont feel inferior believe in yourself, know that nothing is impossible. Always feel that you count, always feel that you have worth and know that your life has an ultimate significance , because you win the first race of your life to be in this world. If you were not significant,  you would have been abducted,died at birth or probably be part a million in a sewage tank. But your existence is of relevance, Always tell yourself  that."
+                android:textColor="#000000"
+                android:textSize="20sp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="13dp"
+                android:layout_marginBottom="10dp"
+                android:fontFamily="sans-serif"
+                android:textStyle="italic"
+                android:paddingLeft="8dp"
+                android:paddingRight="8dp"
+                android:text="&quot;As a man thinkenth, so he is. As he continues to think , so he remains&quot; - James Allen"
+                android:textColor="#000000"
+                android:textSize="20sp" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="3dp"
+                android:fontFamily="sans-serif"
+                android:paddingLeft="8dp"
+                android:paddingRight="8dp"
+                android:text="What you believe determines what you become, You see what you look for; you attract what you are.&#xD;Most people do not realize that their beliefs determine the rest of their life;WHAT  YOU BELIEVE TODAY AS A REAL EFFECT ON TOMORROW.&#xD;Your Income,Success,Health, and who you ultimately become are based on what you believe will happen."
+                android:textColor="#000000"
+                android:textSize="20sp" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="3dp"
+                android:fontFamily="sans-serif"
+                android:paddingLeft="8dp"
+                android:paddingRight="8dp"
+                android:text="As Michael Jordan once said :&#xD;
+                    &#xD;
+                &quot;You have to expect things from yourself before you can do them.&quot;&#xD;If you believe you can, odds are you probably will. But if you don't, then you end up not trying."
+                android:textColor="#000000"
+                android:textSize="20sp" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="13dp"
+                android:layout_marginBottom="10dp"
+                android:fontFamily="sans-serif"
+                android:textStyle="italic"
+                android:paddingLeft="8dp"
+                android:paddingRight="8dp"
+                android:text="&quot;One will never get any more than he thinks he can get&quot; - Amaizu Melody"
+                android:textColor="#000000"
+                android:textSize="20sp" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="3dp"
+                android:fontFamily="sans-serif"
+                android:paddingLeft="8dp"
+                android:paddingRight="8dp"
+                android:text="The problem is, most people don't have that self belief in themselves. Most people think this is about as good as it gets. For most part , most people believe the best they can be is merely &quot;GOOD&quot; &#xD;Why? Because it's easier to stay in mediocrity than undertake the difficult process of upgrading your belief  system.&#xD;
+It's easier to relax in &quot;GOOD&quot; instead of busting your ass towards greatness."
+                android:textColor="#000000"
+                android:textSize="20sp" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dp"
+                android:fontFamily="sans-serif"
+                android:paddingLeft="8dp"
+                android:paddingRight="8dp"
+                android:text="2. BE PRINCIPLED: "
+                android:textColor="#000000"
+                android:textStyle="bold"
+                android:textSize="20sp" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="3dp"
+                android:fontFamily="sans-serif"
+                android:paddingLeft="8dp"
+                android:paddingRight="8dp"
+                android:text=" You must have basic principles, you must be able to decide what you will be in life, what your life's work will be even has your days unfolds and once you discover it, set out to do it and do it well, learn to set aside some irregularities of life and make it happen.&#xD;My mom always say, &quot;There is no champion without challenge, but with his/her ability to stay principled pushes him further into becoming a champion&quot;"
+                android:textColor="#000000"
+                android:textSize="20sp" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="3dp"
+                android:fontFamily="sans-serif"
+                android:paddingLeft="8dp"
+                android:paddingRight="8dp"
+                android:text="There is no rice, without a price, just do what you are doing well."
+                android:textColor="#000000"
+                android:textSize="20sp" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="13dp"
+                android:layout_marginBottom="10dp"
+                android:fontFamily="sans-serif"
+                android:textStyle="italic"
+                android:paddingLeft="8dp"
+                android:paddingRight="8dp"
+                android:text="&quot;Be a bush, if you cant be a tree&quot;"
+                android:textColor="#000000"
+                android:textSize="20sp" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="13dp"
+                android:layout_marginBottom="10dp"
+                android:fontFamily="sans-serif"
+                android:textStyle="italic"
+                android:paddingLeft="8dp"
+                android:paddingRight="8dp"
+                android:text="&quot;If you can't be a comb, be a brush&quot;"
+                android:textColor="#000000"
+                android:textSize="20sp" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="13dp"
+                android:layout_marginBottom="10dp"
+                android:fontFamily="sans-serif"
+                android:textStyle="italic"
+                android:paddingLeft="8dp"
+                android:paddingRight="8dp"
+                android:text="&quot;If you can't be the sun, then be the star&quot;, for it doesn't matter,or it is not about size that you win or you fail, just be the best at whatever you are and be principled."
+                android:textColor="#000000"
+                android:textSize="20sp" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dp"
+                android:fontFamily="sans-serif"
+                android:paddingLeft="8dp"
+                android:paddingRight="8dp"
+                android:text="3. KEEP MOVING: "
+                android:textColor="#000000"
+                android:textStyle="bold"
+                android:textSize="20sp" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="13dp"
+                android:layout_marginBottom="10dp"
+                android:fontFamily="sans-serif"
+                android:paddingLeft="8dp"
+                android:paddingRight="8dp"
+                android:text="&quot;Life is not full of roses, most times you don't get what you want, You don't just achieve your dreams and aspirations at the snap of your fingers .But for whatever you face, just keep moving.&#xD;Know that your challenge is only defined based on where you stand to look at it
+&#xD;&quot;If you can't fly, RUN&quot;
+, &quot;If you can't run, WALK&quot;
+, &quot;If you can't walk, CRAWL&quot;
+,&#xD;For no matter how  fast or how slow, just make sure you are not stagnant, by all means keep moving."
+                android:textColor="#000000"
+                android:textSize="20sp"/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="7dp"
+                android:fontFamily="sans-serif"
+                android:paddingLeft="8dp"
+                android:paddingRight="8dp"
+                android:textStyle="italic"
+                android:text="Let me tell you one of my success stories;"
+                android:textColor="#000000"
+                android:textSize="20sp" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dp"
+                android:fontFamily="sans-serif"
+                android:paddingLeft="8dp"
+                android:paddingRight="8dp"
+                android:textStyle="italic"
+                android:text="Before writing this book, i was just a normal student, who wanted to pass the phases stage managed by majority  of  the Nigerian parents(i.e go to the university---> come out with good grades---> And work .)
+&#xD;My life was well planned, but for one thing, i had this thought, &quot;people who became great, did they follow the same way.&quot;I started asking questions, But on my quest to getting solutions i found out that the successful have a particular kind of mindset, a distinctive kind of behaviour. This pushed me into writing, so as to enlighten the ignorant.
+&#xD;Still while on this quest, i asked how can i reach to the world easily, after much deliberation, i came to the conclusion that most people tend to either be with their phones more than their books, to this i resulted to making the book an application, but there was a challenge.Although a student of Information Technology, i  knew nothing in application development, but i believed in myself, i told my self if people can build apps that can be featured in google store, Then i too can, because we were both created by one GOD, we all have one head, one brain, two eyes. So what is it that they can do that i can't do.
+I believed in myself, started a course with google through ALC and today, you are reading this book through an android application, that i paid nobody to do. An application that was self built."
+                android:textColor="#000000"
+                android:textSize="20sp" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="20dp"
+                android:fontFamily="sans-serif"
+                android:paddingLeft="8dp"
+                android:paddingRight="8dp"
+                android:textStyle="bold"
+                android:text="&quot;THE RATE AT WHICH YOU BELIEVE IN YOURSELF, IS THE RATE AT WHICH YOU WILL SUCCEED&quot;- AMAIZU MELODY."
+                android:textColor="#000000"
+                android:textSize="20sp" />
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>

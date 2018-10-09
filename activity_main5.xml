@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#990000"
+    android:fillViewport="true">
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#990000"
+        android:orientation="vertical"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        tools:context=".Main5Activity">
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_marginBottom="3dp"
+            android:layout_weight="1.0"
+            android:background="@drawable/button_selector1"
+            android:textAlignment="center"
+            android:text="ACKNOWLEDGEMENT"
+            android:onClick="openZero"
+            android:textColor="#990000"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            />
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_marginBottom="3dp"
+            android:layout_weight="1.0"
+            android:background="@drawable/button_selector1"
+            android:textAlignment="center"
+            android:onClick="openOne"
+            android:paddingLeft="20dp"
+            android:text="INTRODUCTION"
+            android:textColor="#990000"
+            android:textSize="20sp"
+            android:textStyle="bold" />
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_marginBottom="3dp"
+            android:layout_weight="1.0"
+            android:background="@drawable/button_selector1"
+            android:textAlignment="center"
+            android:onClick="openTwo"
+            android:paddingLeft="20dp"
+            android:text="PRINCIPLES OF POSITIVE THINKING"
+            android:textColor="#990000"
+            android:textSize="20sp"
+            android:textStyle="bold" />
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_marginBottom="3dp"
+            android:layout_weight="1.0"
+            android:background="@drawable/button_selector1"
+            android:textAlignment="center"
+            android:onClick="openThree"
+            android:paddingLeft="20dp"
+            android:text="PRINCIPLE OF SELF DEVELOPMENT"
+            android:textColor="#990000"
+            android:textSize="20sp"
+            android:textStyle="bold" />
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_marginBottom="3dp"
+            android:layout_weight="1.0"
+            android:background="@drawable/button_selector1"
+            android:textAlignment="center"
+            android:onClick="openFour"
+            android:paddingLeft="20dp"
+            android:text="BRIDGING THE GAP"
+            android:textColor="#990000"
+            android:textSize="20sp"
+            android:textStyle="bold" />
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_marginBottom="3dp"
+            android:layout_weight="1.0"
+            android:background="@drawable/button_selector1"
+            android:onClick="openFive"
+            android:textAlignment="center"
+            android:paddingLeft="20dp"
+            android:text="PSYCHOLOGY OF PRIORITY"
+            android:textColor="#990000"
+            android:textSize="20sp"
+            android:textStyle="bold" />
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_marginBottom="3dp"
+            android:layout_weight="1.0"
+            android:background="@drawable/button_selector1"
+            android:textAlignment="center"
+            android:paddingLeft="20dp"
+            android:text="CONCEPT OF LIGHT AND DARKNESS"
+            android:textColor="#990000"
+            android:textSize="20sp"
+            android:onClick="openSix"
+            android:textStyle="bold" />
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_marginBottom="3dp"
+            android:layout_weight="1.0"
+            android:background="@drawable/button_selector1"
+            android:paddingLeft="20dp"
+            android:text="PSYCHOLOGY OF SUCCESS"
+            android:textAlignment="center"
+            android:textColor="#990000"
+            android:textSize="20sp"
+            android:onClick="openSeven"
+            android:textStyle="bold" />
+        <Button
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_marginBottom="3dp"
+        android:layout_weight="1.0"
+        android:background="@drawable/button_selector1"
+        android:textAlignment="center"
+        android:paddingLeft="20dp"
+        android:text="PYCHOLOGY OF PROFESSIONALISM"
+        android:textColor="#990000"
+        android:textSize="20sp"
+        android:onClick="openEight"
+        android:textStyle="bold" />
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_marginBottom="3dp"
+            android:layout_weight="1.0"
+            android:background="@drawable/button_selector1"
+            android:paddingLeft="20dp"
+            android:textAlignment="center"
+            android:text="PRINCIPLES OF SOCIAL RETURN"
+            android:textColor="#990000"
+            android:textSize="20sp"
+            android:onClick="openNine"
+            android:textStyle="bold" />
+
+
+
+    </LinearLayout>
+</ScrollView>

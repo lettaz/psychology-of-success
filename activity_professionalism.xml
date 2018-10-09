@@ -1,0 +1,372 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#990000"
+    android:orientation="vertical"
+    tools:context=".introduction">
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:background="#ffffff"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="15dp"
+                android:text="PSYCHOLOGY OF PROFESSIONALISM"
+                android:textAlignment="center"
+                android:textAllCaps="true"
+                android:textColor="#000000"
+                android:textSize="30sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="15dp"
+                android:fontFamily="sans-serif"
+                android:paddingLeft="8dp"
+                android:paddingRight="8dp"
+                android:text="I work as the Lead Strategist and CEO at Excessneeds Digital; one of the few software based cloud computing companies in Nigeria. As a Digital marketer and a social media strategist, have been privileged to work with organizations like Women in tech Africa, Hultz prize award, Guidance of the nation International, Co-organizer of Imo startups weekend and many more. I have had experience working with multinationals like Unilever (Campus Ambassador) and the convener of Entrepreneurs Factory; a fast growing community for entrepreneurs in Nigeria, Ghana and Kenya.
+ Now bring your mind back. I'm not proud (LOL), what I have just done with this is to work on your expectations: a phenomenon known as priming and a very important skill in the art of professionalism. Yes, 'ART' because professionalism is a form of art and just as all art forms can radiate so much beauty if well understood and practiced appropriately professionalism can as well be understood.
+"
+                android:textColor="#000000"
+                android:textSize="20sp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dp"
+                android:fontFamily="sans-serif"
+                android:paddingLeft="8dp"
+                android:paddingRight="8dp"
+                android:text="I will be introducing you to some interesting thing you don't know or probably you know them but have not taken enough cognizance of them which have affected the way people see you and how you deal in business. The followings are what we will be looking at in this Chapter;"
+                android:textColor="#000000"
+                android:textSize="20sp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="3dp"
+                android:fontFamily="sans-serif"
+                android:paddingLeft="8dp"
+                android:paddingRight="8dp"
+                android:text="1. The meaning of Psychology and professionalism"
+                android:textColor="#000000"
+                android:textSize="20sp" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="3dp"
+                android:fontFamily="sans-serif"
+                android:paddingLeft="8dp"
+                android:paddingRight="8dp"
+                android:text="2. The professional, the amateur and the quack"
+                android:textColor="#000000"
+                android:textSize="20sp" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="3dp"
+                android:fontFamily="sans-serif"
+                android:paddingLeft="8dp"
+                android:paddingRight="8dp"
+                android:text="3. Concepts of professionalism: attitude, branding, work ethic"
+                android:textColor="#000000"
+                android:textSize="20sp" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="3dp"
+                android:fontFamily="sans-serif"
+                android:paddingLeft="8dp"
+                android:paddingRight="8dp"
+                android:text="4. Emotional intelligence "
+                android:textColor="#000000"
+                android:textSize="20sp" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="3dp"
+                android:fontFamily="sans-serif"
+                android:paddingLeft="8dp"
+                android:paddingRight="8dp"
+                android:text="5. Net worth/Value"
+                android:textColor="#000000"
+                android:textSize="20sp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="7dp"
+                android:layout_marginBottom="5dp"
+                android:fontFamily="sans-serif"
+                android:textStyle="bold"
+                android:paddingLeft="8dp"
+                android:paddingRight="8dp"
+                android:text="WHAT IS PSYCHOLOGY?"
+                android:textColor="#000000"
+                android:textSize="20sp" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="3dp"
+                android:fontFamily="sans-serif"
+                android:paddingLeft="8dp"
+                android:paddingRight="8dp"
+                android:text="Psychology is that branch of science which tries to study, understand, interpret, explain, predict and control (manipulate) behavior. For the critics who might disagree with me for using the word 'manipulate' I'd like to clear your doubt because we are all guilty of trying to do that in one way or the other. In today's world, we call it 'influence'.
+ The mind is highly complex and thing that pertain to it are hard to understand as it has to do with thought processes, emotions, perceptions, dreams, and all of the things you cannot see or touch but is responsible for almost every action you take. When it comes to psychology it can only be evaluated by observation.&#xD;Now,
+"
+                android:textColor="#000000"
+                android:textSize="20sp" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="7dp"
+                android:layout_marginBottom="5dp"
+                android:fontFamily="sans-serif"
+                android:textStyle="bold"
+                android:paddingLeft="8dp"
+                android:paddingRight="8dp"
+                android:text="WHAT IS PROFESSIONALISM?"
+                android:textColor="#000000"
+                android:textSize="20sp" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="3dp"
+                android:fontFamily="sans-serif"
+                android:textStyle="normal"
+                android:paddingLeft="8dp"
+                android:paddingRight="8dp"
+                android:text="Professionalism is perhaps the most misunderstood and over-rated term in the world of business. At the basic level we often regard professionalism as the strict adherence to courtesy, honesty and responsibility when dealing with individuals or other companies in the business environment. At workplace, the customary code of conduct is our easiest adaptation on following the method of the organization, which to many is there guide to professionalism.
+"
+                android:textColor="#000000"
+                android:textSize="20sp" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="2dp"
+                android:fontFamily="sans-serif"
+                android:paddingLeft="8dp"
+                android:paddingRight="8dp"
+                android:text="In most cases, it is seen as a trait/characteristic that pushes individuals to do their work beyond expectation. I will say professionalism is a character and can be learnt. And just like every character, it speaks volumes about who you are and what you can do.
+So you step into a place, professionalism is that character that screams your presence and it covers, the way you dress, walk, talk, work, and relate to others and so on. It speaks about your carriage.
+We must understand that just like psychology tries to understand, explain, predict and influence people's behavior (attitude and response towards us) our character of professional is one 'subtle' way we can do this. Subtle only a few would understand what you are doing or trying to do.
+ It is important to note that the art of influence has to be 'subtle' because as humans we don't like the idea that someone is trying to manipulate us. The moment we find out that someone is trying to manipulate us we put up all our defenses and shut them out. Now, this is where psychology comes into play. You must be able to influence people without being found out.
+"
+                android:textColor="#000000"
+                android:textSize="20sp" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="3dp"
+                android:fontFamily="sans-serif"
+                android:paddingLeft="8dp"
+                android:paddingRight="8dp"
+                android:text="DISCLAIMER: For the sake of religious folks permit me to use the word 'manipulate' because though it sounds evil I believe it will drive home a point that your ability to influence people must be intentional.
+ So point number one: Professionalism is an Intentional art. You have to do it deliberately.
+Acting like or conceivably one will consider to be a professional if his actions and character make other think of him as a reliable, competent, dependent, respectful and believer of integrity.
+Being a professional would mean that you are good at what you do, stay true to your word, you dress to impress, you have full knowledge of your organization or business, being positive, focused, not letting your personal life interfere with your job, and determined.
+"
+                android:textColor="#000000"
+                android:textSize="20sp" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="3dp"
+                android:fontFamily="sans-serif"
+                android:paddingLeft="8dp"
+                android:paddingRight="8dp"
+                android:text="Now I will delve straight into the differences among a professional, an amateur and a quack."
+                android:textColor="#000000"
+                android:textSize="20sp" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dp"
+                android:fontFamily="sans-serif"
+                android:paddingLeft="8dp"
+                android:paddingRight="8dp"
+                android:text=" A professional is someone who carries him/herself like they want to be addressed, actually, they all carry themselves the way they want to be addressed just that the quack and amateur do not know this.&#xD;
+ Quack lacks the expertise but is bold enough to present him/herself as if having it.&#xD;
+ The amateur on the other hand has the expertise but lacks experience (confidence and audacity) and so presents him/herself in this light.&#xD;
+ Therefore, what sets us apart from being quacks, amateurs or professionals are:
+"
+                android:textColor="#000000"
+                android:textSize="20sp" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="3dp"
+                android:fontFamily="sans-serif"
+                android:paddingLeft="8dp"
+                android:paddingRight="8dp"
+                android:text="1. Knowledge "
+                android:textColor="#000000"
+                android:textSize="20sp" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="3dp"
+                android:fontFamily="sans-serif"
+                android:paddingLeft="8dp"
+                android:paddingRight="8dp"
+                android:text="2. Confidence to act with our knowledge regardless of how little or how much your knowledge is... which is all summed up in Character."
+                android:textColor="#000000"
+                android:textSize="20sp" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dp"
+                android:fontFamily="sans-serif"
+                android:textStyle="italic"
+                android:paddingLeft="8dp"
+                android:paddingRight="8dp"
+                android:text="So the question is then how do we infuse professionalism into our character that it reflects in our work and life."
+                android:textColor="#000000"
+                android:textSize="20sp" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dp"
+                android:fontFamily="sans-serif"
+                android:paddingLeft="8dp"
+                android:paddingRight="8dp"
+                android:text="1. Attitude: this is a person's positive, negative or neutral judgment of events, situation, people and themselves as well. Simply put your perception of your world.&#xD;
+What is your attitude towards yourself, people around and the situations you find yourself?  If your attitude is negative or neutral then your work, character and carriage will be either that of a quack or an amateur. And if it's positive then you know the answer. To imbibe the art of professionalism you must have a positive outlook or attitude, one that speaks of your worth and you must constantly remind yourself of this.
+Your living is determined not so much by what life gives to you as by the attitude you bring to life; not so much by the situations that prevailed as by the way your mind looks at the situations. The greatest day in your life and mine will be that day we take total responsibility for our attitudes. That's the day we all grow up.
+"
+                android:textColor="#000000"
+                android:textSize="20sp" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dp"
+                android:fontFamily="sans-serif"
+                android:paddingLeft="8dp"
+                android:paddingRight="8dp"
+                android:text="2. Branding: You must understand that you are a brand, more so you are a 'Trademark' and must learn to leave your mark everywhere you go and everywhere you find yourself. You must begin to carve out a brand for yourself, the way you dress, the way you speak, the way you relate with people, your work in general must speak of your brand they must all talk loud about your trademark. Your brand and trademark must be designed to fit who you see yourself as in the bigger picture. Just like when you start up a business, you begin to nurture it and creative different contents around it, making people to believe this is what your business stand for and putting a belief in their minds. So if you see yourself as a future CEO define your brand in such light, if you see yourself as a president of a conglomerate everything about you must start speaking of that brand from now, don't wait till you get there. Paint your picture. "
+                android:textColor="#000000"
+                android:textSize="20sp" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dp"
+                android:fontFamily="sans-serif"
+                android:paddingLeft="8dp"
+                android:paddingRight="8dp"
+                android:text="3. Work ethics: This is very important. Note that in our definition of professionalism, I mentioned 'strict adherence to courtesy, honesty and responsibility' these are key factors in work ethics.
+Work ethics talks about a person's personal values at work  It's like a conscious code that guides the work you do... It may include your ability to complete your work in time, and with the highest quality your integrity, transparency, etc  Notice that professionalism has to be subtle... Your work ethics helps you drive home that 'sublimity'. One important factor that you would have noticed with the art of professionalism is that you have to relate and interact with people when performing your art.
+"
+                android:textColor="#000000"
+                android:textSize="20sp" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="9dp"
+                android:fontFamily="sans-serif"
+                android:textStyle="bold"
+                android:paddingLeft="8dp"
+                android:paddingRight="8dp"
+                android:text="A QUICK STORY ABOUT MY CAREER"
+                android:textColor="#000000"
+                android:textSize="20sp" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dp"
+                android:fontFamily="sans-serif"
+                android:paddingLeft="8dp"
+                android:paddingRight="8dp"
+                android:text="From the moment I started my career as a Digital marketer, I had one eye on my tweet deck and the other on my line of codes. It has never being easy for me growing up to become a techie by profession and a digital personal by career. I was never much of a talker as well; I like stick glue to my own thinking and find a way to write the codes, Every other thing comes as secondary. But then, my success as a digital marketer is largely dependent on my interaction with others and it came down on me that the person I was in real life would never become the person I envisioned to be as a digital marketer. At that point I had taken several courses on digital marketing, social media marketing, inbound sales, SEO, etc. and I had absolutely zero work experience.
+I figured out I have to paint myself onto the internet canvas as the insightful, playful, sharp-witted writer I wanted to be seen as. Then I could use that picture to shape perception and influence impressions. I'd market myself as if I were a brand and manage my online reputation the way I wanted it. Guess what? I blended in very fast and was also merging my profession with my career without any hindrance.
+Soon or later I got a recommendation from someone who has seen the picture I painted myself to be online and I was called for a job interview. I got to the interview venue earlier than anyone, looking so smart in my dress and answered the questions to the best of my knowledge. When we were asked how much are we going to charge for the campaign, my fellow applicants quickly jumped into conclusion and gave a rough estimate of what they will charge but when I was asked I brought out a prepared plan for the campaign and told them I will need some time to prepare an invoice for the project. And that was how I got my first 6-digit pay. I was only 19 years own then.
+"
+                android:textColor="#000000"
+                android:textStyle="italic"
+                android:textSize="20sp" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="9dp"
+                android:fontFamily="sans-serif"
+                android:paddingLeft="8dp"
+                android:paddingRight="8dp"
+                android:text="Professionalism is what differentiates you from the rest. First, be sure you are fit then apply the art of professionalism."
+                android:textColor="#000000"
+                android:textSize="20sp"/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="7dp"
+                android:fontFamily="sans-serif"
+                android:paddingLeft="8dp"
+                android:paddingRight="8dp"
+                android:text="4. Emotional Intelligence: Lets face it. Business is not always fun. And sure it's business. No matter you're your place is on the career later, I bet you've felt misunderstood somewhere along the line. Everyday people feel left out, unappreciated, and mistreated at work and consequently, they suffer.
+But we can easily improve the business landscape by getting better at one thing: EMOTIONAL INTELLIGENCE.
+
+This factor has become a very important trait to posses, some even believe it is more important than IQ. I will not bore you with the jargon and history surrounding EI. But I want you to understand that your ability to understand how you feel at every given time and also the feelings of others and how best to relate with people and your network is termed as emotional intelligence.
+
+In today's economy, solving emotional related problems are critical. At work, we deal with complex problems and we often have to worj together to find solution. Success in business is not about SAT scores, IQ tests, or any other grade-based metrics. It[s about making an impact as a leader.
+ In other words Emotional intelligence is an individual ability to appreciate (understand) his/her own emotions and that of others and the ability to relate with other efficiently.  Why is this important in the art of professionalism?  Let me ask a rhetorical question:
+Who perceives or confirms your art? It is others and the people around you. Who are you trying to influence? The answer again is others,
+Who do you interact with while doing your work? Again- others  But that's not all, you ability to do all this lies with you and your emotional state at the given time. Therefore as a professional you must be able not only to identify/understand your emotions and that of others but you should be able to regulate them as well.
+A professional is not ruled by emotions but rather rules over emotions. As a professional you influence the emotions of other positively to suit your goal and do not allow their emotion rule over you.
+Imagine you are a doctor and you are about to perform a surgery and just when you are about entering the theater a member of the patients family comes insulting you, what do you do? Now your actions will determine whether you are a quack, amateur or a professional.
+"
+                android:textColor="#000000"
+                android:textSize="20sp" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dp"
+                android:fontFamily="sans-serif"
+                android:paddingLeft="8dp"
+                android:paddingRight="8dp"
+                android:text="5. Know your value, know what you are worth  Value yourself in perspective of your vision and purpose in life. I want us to imagine how you treat the Nigerian 100naira note and now imagine how you would treat a 100 US dollar note.
+ The difference is in the value you attach to both.
+ In the same way people will address you not by the way you dress, like we have always thought, but by the worth you attach to yourself. In fact, you will address your own self by the how much you think you are worth. It is impossible to escape the impression that people naturally use false standards of measurement � that they seek power, success and wealth for themselves and admires them in others, and that they underestimate what is of true value of life.
+
+Values are defined as the regard that something is held to deserve, the importance, worth, or usefulness of someone; principles or standards of behavior; one�s judgment of what�s important in life. When your values are clear to you, making decision becomes easier.
+"
+                android:textColor="#000000"
+                android:textSize="20sp" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="9dp"
+                android:fontFamily="sans-serif"
+                android:paddingLeft="8dp"
+                android:paddingRight="8dp"
+                android:textStyle="bold"
+                android:text="CONCLUSION"
+                android:textColor="#000000"
+                android:textSize="20sp" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="6dp"
+                android:fontFamily="sans-serif"
+                android:paddingLeft="8dp"
+                android:paddingRight="8dp"
+                android:textStyle="italic"
+                android:text="A professional being is an exceptional being. In all you do be conscious of your actions and bring out the value in it. Nobody wants to tolerate nonsense especially in business. There are hundreds of thousands of people who are fit for that job, who can provide the solution better than you, what differentiates you from them ultimately is your art of professionalism.
+Get professional with the job and seal the deal.
+"
+                android:textColor="#000000"
+                android:textSize="20sp" />
+
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>

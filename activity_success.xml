@@ -1,0 +1,344 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#990000"
+    android:orientation="vertical"
+    tools:context=".introduction">
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:background="#ffffff"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="15dp"
+                android:text="PSYCHOLOGY OF SUCCESS"
+                android:textAlignment="center"
+                android:textAllCaps="true"
+                android:textColor="#000000"
+                android:textSize="30sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="15dp"
+                android:fontFamily="sans-serif"
+                android:paddingLeft="8dp"
+                android:paddingRight="8dp"
+                android:text="Having a good grasp of what psychology is all about is essential for anybody wanting to study the topic in greater depth. This may sound like an obvious thing to state but psychology is a subject which is often misunderstood and referred to without any real consideration as to its actual meaning. A classic case in point being the usual response you get from people when you tell them that you teach psychology; namely, &quot;I better be careful what I say&quot;, or &quot;so do you know what I'm thinking then?&quot;
+Confusion over the meaning of psychology is not restricted to members of the public. When I first started my research,i found out that many don't fully understand the concept of psychology,not to talk of its relations to abstract things of life.For this chapter we would be going through;"
+                android:textColor="#000000"
+                android:textSize="20sp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dp"
+                android:fontFamily="sans-serif"
+                android:paddingLeft="8dp"
+                android:paddingRight="8dp"
+                android:text="1. The core meaning of psychology."
+                android:textColor="#000000"
+                android:textSize="20sp" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="3dp"
+                android:fontFamily="sans-serif"
+                android:paddingLeft="8dp"
+                android:paddingRight="8dp"
+                android:text="2. It's relationship to success."
+                android:textColor="#000000"
+                android:textSize="20sp" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="3dp"
+                android:fontFamily="sans-serif"
+                android:paddingLeft="8dp"
+                android:paddingRight="8dp"
+                android:text="3. Learning theories as it concerns success."
+                android:textColor="#000000"
+                android:textSize="20sp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="7dp"
+                android:layout_marginBottom="5dp"
+                android:fontFamily="sans-serif"
+                android:textStyle="bold"
+                android:paddingLeft="8dp"
+                android:paddingRight="8dp"
+                android:text="WHAT IS THE CORE MEANING OF PSYCHOLOGY?"
+                android:textColor="#000000"
+                android:textSize="20sp" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="3dp"
+                android:fontFamily="sans-serif"
+                android:paddingLeft="8dp"
+                android:paddingRight="8dp"
+                android:text="To help understand the ambiguity surrounding psychology, let's start by taking a look at a couple of definitions.
+&quot;Psychology is the scientific study of people, the mind and behavior. It is both a thriving academic discipline and a vital professional practice.&quot;(Brittish psychological society)
+&quot;The scientific study of the behavior of individuals and their mental processes.&quot;(American Psychological Association)
+If you notice, you discover that both of these definitions tell us that psychology is fundamentally concerned with understanding behavior.
+Personally i think psychology is most important amongst all field, due to its applicability, it is about us,the most important and intimate aspects of our life, Our perceptions, Our dreams, love, hate, morality. It is about our sense of right and wrong.
+Especially when you're beginning. Simply keep hold of the thought that Psychology is fundamentally about conduct. You can't be relied upon to know all the diverse routes there are to clarify conduct straight away; however as you are acquainted with more you'll see that you'll before long have the capacity to put a social clarification inside a proper mental structure.
+Most think of psychology as mental illness,counselling,clinicians but its far from that,psychology deals with MENTALITY not MENTAL ILLNESS, don't get it twisted.
+When we say Mentality,i.e how our thought affects our actions and state, how it affects everything around us and that is particularly what psychology is concerned about.
+Now this takes us to the next sub-heading, psychology's relationship with success.
+How dies our behavioral instincts affect our success in life?&#xD;
+What role does our mentality have to play, in pushing us to success?&#xD;"
+                android:textColor="#000000"
+                android:textSize="20sp" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="7dp"
+                android:layout_marginBottom="5dp"
+                android:fontFamily="sans-serif"
+                android:textStyle="bold"
+                android:paddingLeft="8dp"
+                android:paddingRight="8dp"
+                android:text="PSYCHOLOGY OF SUCCESS:"
+                android:textColor="#000000"
+                android:textSize="20sp" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="3dp"
+                android:fontFamily="sans-serif"
+                android:textStyle="normal"
+                android:paddingLeft="8dp"
+                android:paddingRight="8dp"
+                android:text="When you ask a great many people what it takes to end up successful, they'll disclose to you that achievement originates from diligent work. The psychology  of success is regularly disregarded completely. While truly, hard work is part of the equation, they are missing a large part. You can never wind up successful if you don't correct mentality.
+The correct attitude/mentality  fixes everything. Your mentality will decide whether you're effective/successful or in case you're unsuccessful. Your mindset  will reveal to you that you're a disappointment and you should simply surrender or that you're in good shape to progress. Which voice would you say you are listening as well?
+Becoming an entrepreneur will be the hardest challenge of your life because you're becoming a different person than everyone else. When that happens, you will question yourself. Are you on the right path? Why don't you just work for someone else? If you continue to ask yourself these questions, you will lose. When you have the right mindset, no matter what you face, you will come out the other side.
+"
+                android:textColor="#000000"
+                android:textSize="20sp" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="3dp"
+                android:fontFamily="sans-serif"
+                android:paddingLeft="8dp"
+                android:paddingRight="8dp"
+                android:text="Let me explain with the story of Melyssa Griffin;"
+                android:textColor="#000000"
+                android:textSize="20sp" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="2dp"
+                android:fontFamily="sans-serif"
+                android:paddingLeft="8dp"
+                android:paddingRight="8dp"
+                android:text="Melyssa Griffin is the founder of melyssagriffin.com where she gives you advice on how to start a successful online business and host of the pursuit with purpose podcast.
+Melyssa's  mindset changed when she realized that telling herself she couldn't do something would not work out. If she wanted to get to the next level in her life, she knew that even if she didn't know how to do something; she was going to figure it out no matter how long it would take her.
+There are so many ways you can learn something in today's day and age that telling yourself you can't do something is ludicrous. If you want to make six-figures, do your research on how others made six-figures. What habits are they doing different from the ones you have? How do they plan their day? What type of work are they doing? The answer to every question is there if you're willing to do the research. Just because you don't know how to do something shouldn't hold you back from achieving whatever you set your mind too.
+Being an entrepreneur, Melyssa realized there are tons of negative events that can take place. To counteract the negative events, Melyssa would take to gratitude journal, writing the positive events taking place in her life. What you're essentially doing is creating a positive perspective view of the world for yourself.
+Psychology of success entails HOW to do,WHEN to do, WHERE you will do it, WHAT to do and the level of effort to be applied that propels you to success.
+"
+                android:textColor="#000000"
+                android:textSize="20sp" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="7dp"
+                android:fontFamily="sans-serif"
+                android:paddingLeft="8dp"
+                android:paddingRight="8dp"
+                android:text="LEARNING THEORIES:"
+                android:textStyle="bold"
+                android:textColor="#000000"
+                android:textSize="20sp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="3dp"
+                android:fontFamily="sans-serif"
+                android:paddingLeft="8dp"
+                android:paddingRight="8dp"
+                android:text="After Psychology classes and church sermons, I proposed &quot;THE PSYCHOLOGY OF SUCCESS&quot;, through learning theories.
+These theories are divided into two.
+"
+                android:textColor="#000000"
+                android:textSize="20sp" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="3dp"
+                android:fontFamily="sans-serif"
+                android:paddingLeft="8dp"
+                android:paddingRight="8dp"
+                android:text="1. Classical Condition of Learning"
+                android:textColor="#000000"
+                android:textSize="20sp" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dp"
+                android:fontFamily="sans-serif"
+                android:paddingLeft="8dp"
+                android:paddingRight="8dp"
+                android:text="2. Operant Condition of Learning."
+                android:textColor="#000000"
+                android:textSize="20sp" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="7dp"
+                android:fontFamily="sans-serif"
+                android:textStyle="bold"
+                android:paddingLeft="8dp"
+                android:paddingRight="8dp"
+                android:text="1. CLASSICAL CONDITION:"
+                android:textColor="#000000"
+                android:textSize="20sp" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="3dp"
+                android:fontFamily="sans-serif"
+                android:paddingLeft="8dp"
+                android:paddingRight="8dp"
+                android:text="This learning condition follows the rule of sequentiality as proposed by IVAN PAVLOV, the father of classical condition of learning.
+Classical conditioning is a reflexive or automatic type of learning in which a stimulus acquires the capacity to evoke a response that was originally evoked by another stimulus, i.e Action/event B occurs as a result of event A, when you have two events to occur.
+"
+                android:textColor="#000000"
+                android:textSize="20sp" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="3dp"
+                android:fontFamily="sans-serif"
+                android:paddingLeft="8dp"
+                android:paddingRight="8dp"
+                android:text="For example;"
+                android:textColor="#000000"
+                android:textSize="20sp" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dp"
+                android:fontFamily="sans-serif"
+                android:paddingLeft="8dp"
+                android:paddingRight="8dp"
+                android:text="One of the most famous examples of classical conditioning was John B. Watson's experiment in which a fear response was conditioned in a boy known as Little Albert. The child initially showed no fear of a white rat, but after the rat was paired repeatedly with loud, scary sounds, the child would cry when the rat was present. The child's fear also generalized to other fuzzy white objects.
+"
+                android:textColor="#000000"
+                android:textSize="20sp" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="4dp"
+                android:fontFamily="sans-serif"
+                android:paddingLeft="8dp"
+                android:paddingRight="8dp"
+                android:text="Let's examine the elements of this classic experiment. Prior to the conditioning, the white rat was a neutral stimulus. The unconditioned stimulus was the loud, clanging sounds and the unconditioned response was the fear response created by the noise. By repeatedly pairing the rat with the unconditioned stimulus, the white rat (now the conditioned stimulus) came to evoke the fear response (now the conditioned response).
+"
+                android:textColor="#000000"
+                android:textSize="20sp" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="3dp"
+                android:fontFamily="sans-serif"
+                android:paddingLeft="8dp"
+                android:paddingRight="8dp"
+                android:text="Now let us relate it to SUCCESS;"
+                android:textColor="#000000"
+                android:textSize="20sp" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dp"
+                android:fontFamily="sans-serif"
+                android:paddingLeft="8dp"
+                android:paddingRight="8dp"
+                android:text="Look a the first condition the white rat; on seeing this rat formerly without the conditioning(paired voices) albert does not fear the rat, but after being conditioned, Albert learns to fear rats at sight. In there is the sequentiality rule, little albert fear starts after seeing rat, due to the fact that it was conditioned with loud and clanging voice.
+Relating to success, If we take the FEAR as SUCCESS  and the WHITE RAT as IMPACT,while THE THINGS YOU DO TO MAKE IMPACT as the loud,clanging sounds.
+You see that IMPACT tends to follow success, so far it has passed through conditioning,i.e right things done to make impact.
+So focus more on making impact and the gist of success follows."
+                android:textColor="#000000"
+                android:textSize="20sp" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dp"
+                android:layout_marginBottom="5dp"
+                android:fontFamily="sans-serif"
+                android:textStyle="italic"
+                android:paddingLeft="8dp"
+                android:paddingRight="8dp"
+                android:text="&quot;MOST TIMES IT'S NOT ABOUT WHAT YOU WANT, BUT THE PROBLEM YOU TEND TO SOLVE IN THIS LIFE, BE RELEVANT&quot;-AMAIZU MELODY"
+                android:textColor="#000000"
+                android:textSize="20sp"/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="4dp"
+                android:fontFamily="sans-serif"
+                android:textStyle="bold"
+                android:paddingLeft="8dp"
+                android:paddingRight="8dp"
+                android:text="2. OPERANT CONDITIONING:"
+                android:textColor="#000000"
+                android:textSize="20sp" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="4dp"
+                android:fontFamily="sans-serif"
+                android:paddingLeft="8dp"
+                android:paddingRight="8dp"
+                android:text="When we talked about classical conditioning we said it follows a rule of sequentiality, operant conditioning follows a rule of trail and error method.
+From the example in classical conditioning, we can see that they had to pair voice with the rat, so as to stimulate fear in little albert, but if make analysis, albert would not fear the rate on the first trial, they would done it about two to three times to incure fear, so as to register in alberts mind that the white rat comes with that voice.
+Now looking at it from success angle, it is not on your first trial of making impact that you become successful, you need to continue solving problems and making impact, continue steadfastly in that which you do to make impact, till success finally learns to follow your impacts.
+"
+                android:textColor="#000000"
+                android:textSize="20sp" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="2dp"
+                android:fontFamily="sans-serif"
+                android:paddingLeft="8dp"
+                android:paddingRight="8dp"
+                android:text="THERE IS NO HARM IN FAILING, BUT RATHER EXPERIENCE, You just need to continue doing what you are doing diligently and gain the experience.
+Entrepreneurs should learn to follow this conditions of learning, to better their chances of being successful."
+                android:textColor="#000000"
+                android:textSize="20sp" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="9dp"
+                android:fontFamily="sans-serif"
+                android:paddingLeft="8dp"
+                android:paddingRight="8dp"
+                android:textStyle="italic"
+                android:text="&quot;IDEAS DOES NOT COME WITHOUT THINKING, BUT EFFECTIVE AND MIND BLOWING IDEAS COMES FROM A HEART THAT WANTS TO SOLVE PROBLEMS AND MAKE IMPACT&quot;- AMAIZU MELODY
+"
+                android:textColor="#000000"
+                android:textSize="20sp" />
+
+
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>

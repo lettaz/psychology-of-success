@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#990000"
+    android:orientation="vertical"
+    tools:context=".introduction">
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:background="#ffffff"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="15dp"
+                android:text="TARA FELA-DUROTOYE"
+                android:textAlignment="center"
+                android:textAllCaps="true"
+                android:textColor="#000000"
+                android:textSize="30sp"
+                android:textStyle="bold" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="15dp"
+                android:fontFamily="sans-serif"
+                android:paddingLeft="8dp"
+                android:paddingRight="8dp"
+                android:text="Tara Fela-Durotoye (born 6 March 1977) is a Nigerian makeup artist and lawyer. A pioneer in the bridal makeup profession in Nigeria, she launched the first bridal directory in 1999, set up international standard makeup studios and established the first makeup school in Nigeria.
+She is the founder and CEO of House of Tara International and creator of the Tara Orekelewa Beauty range, Inspired Perfume and the H.I.P Beauty range.
+Tara Fela-Durotoye was born at St. Nicholas Hospital, Lagos to John Ejegi Sagay, a commissioner at the Federal Civil Service, Nigeria and Felicia Omaghomi. The couple separated when she was eight months old; and being a polygamous home, she was brought up by her stepmother, Modupe Agnes Sagay. She started her education at Command Children School, Victoria Island and proceeded to Nigeria Navy Secondary School, Ojo, where she was a boarder. In form 5, she was made the Sanitary and Welfare Prefect. She graduated from the Lagos State University, with a degree in Law and proceeded to establish the House of Tara International.
+More than ten years ago, House of Tara founder Tara Fela-Durotoye, sparked a revolution that reverberated across Nigeria, creating a powerful corporate brand, a range of interesting makeup and skincare lines aimed at women of colour, and setting up Nigeria�s first make-up school.
+Tara Fela-Durotoye is a Nigerian makeup artist and lawyer. A pioneer in the bridal makeup profession in Nigeria, she launched the first bridal directory in 1999, followed by the establishment of an international standard makeup studio, and the launch of the first makeup school in Nigeria.
+Over the past 16 years, Tara has been dedicated to realising her vision of building a globally respected beauty company of African origin. She is the founder and current CEO of House of Tara International; the creator of the Tara Orekelewa Beauty range, Inspired Perfume and the H.I.P Beauty range; and a highly respected mentor for make-up artists and small business owners. She is a genuine powerhouse and gamechanger in the cosmetics industry in Nigeria and an inspiration for the rest of Africa.
+'Creating a business that impacts and generates income, developing micro entrepreneurs who will grow their business and employ more people so as to make the Nigerian economy better is what's most important.'
+Set up in 1998, House of Tara is a pioneer in the beauty and makeup industry in Nigeria and a trailblazer in the areas of retail, distribution channel management and education. Known also as an industry enabler, the brand, being the first to set up a beauty school in Nigeria has over 3,000 reps spread across the country and 14 stores to its name. Earlier this year, the company announced plans for its international expansion with rollout of 20 studios across Nigeria and presence in Kenya and Ghana by the end of 2014.
+Tara started her entrepreneurial journey seriously in the beauty business when she was still a law student at Lagos State University. She later trained as a makeup artist of Charles Fox. Yet, her early interest in makeup and fashion was stimulated by her step mother, a highly fashionable and glamorous woman who used to work in the Ministry of Culture and studied Fine Arts. Tara says of her mother�s inspiration growing up:  �She was a fantastic woman, very fashionable, so when you looked at her dressing table she had make-up products, she would paint her face in the morning, she never missed her hairdressing appointment, her nail polish was always perfect. I grew up seeing her adorn herself and I liked looking at her through all that process. I didn't know that a seed was being sown in my heart.�
+We have given many people the opportunity to start up something as a business, to be business owners, to start up their own businesses and to make money from it but also to be financially independent and many them have had to employ one or two people as well and I think that gives greater joy, for us.�
+            Tara says of her entrepreneurial experience in those early days: �I started at a time when it wasn�t even popular for people generally to be entrepreneurs, unlike what obtains now. Many people, who were my peers, didn�t even fully understand the concept. Even for me, I didn�t wake up one morning to be an entrepreneur. The focus was on doing what I loved, which is, making women beautiful. This passion started when I was studying Law at the Lagos State University. From bridal make-up, the clientele began to expand, and slowly, it dawned on me that this was a big deal, and it could go far beyond a few random weddings and become a pioneering movement. I haven�t looked back ever since�.
+            Over the years, the House of Tara has achieved a lot of firsts in the Nigerian market. It launched Nigeria�s first Bridal Directory in 1999. It also established the first make-up school in Nigeria. Tara is very proud of one of her key achievements, �Be Inspired�, Nigeria�s first home-grown fragrance, and Orekelewa, a make-up line. Today, House of Tara has set its eyes beyond West Africa. It is aiming to make an impact across Africa and beyond.
+            Speaking about her early entrepreneurial challenges when first starting up the business, she says:  �At start up, we faced challenges with raising funds. In Nigeria, you need to be able to get financing and raising funds was a big problem.  Also, our industry is an informal one and as pioneers, we could not find standards to copy. It�s easier when you see something you can copy but when you have to think it through and make it up as they come along, it�s not easy. Now, we are dealing with challenges of attracting talent and retaining them; keeping the voice of the vision across multiple branches and across a number of people. We also face the challenge of people asking us to sell shares in the company and people consistently looking for ways to be part of the business that will boom.�
+            Tara�s entrepreneurial success story has been an inspiration to many young people. To date, over 1,500 students have graduated from her make-up school so far and many have gone on to start their own businesses, while some have become beauty bloggers. A number also work for international cosmetic brands, which like many western companies are keen to invest in the oil rich frontier economy. Tara has 80 full-time employees and over 3000 independent sales representatives across the country.
+
+
+            �Stay true to yourself, stay true to what you are trying to achieve, otherwise you get distracted. Side comments, how people think you should do things, and I think that everyone wants to hear their own voice so you need to stay true to yourself. Before you come out of your house you have to decide, yes this is what I want to do. You still need counsel but you should be able to apply counsel to your own decision to be able to take insightful steps.�
+            Speaking about the impact her entrepreneurial journey has had in the country, Tara says: �For us it�s the impact we are making that is most rewarding. The jobs� there are many people who are looking for jobs today and the beauty industry has given an opportunity for young people who are very excited about beauty, and you know Nigerians are very fashionable and love beauty. We have given many people the opportunity to start up something as a business, to be business owners, to start up their own businesses and to make money from it but also to be financially independent and many them have had to employ one or two people as well and I think that gives greater joy, for us.�
+            Tara made the Forbes� list of 20 Young Power Women in Africa, 2013 and was also nominated as a Young Global Leader by the World Economic Forum
+            "
+                android:textColor="#000000"
+                android:textSize="20sp" />
+
+
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>

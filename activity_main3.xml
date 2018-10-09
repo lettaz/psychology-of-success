@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#990000"
+    tools:context=".Main3Activity">
+    <ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#ffffff"
+        android:fillViewport="true">
+
+        <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+            xmlns:app="http://schemas.android.com/apk/res-auto"
+            xmlns:tools="http://schemas.android.com/tools"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="#ffffff"
+            android:orientation="vertical"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            tools:context=".Main5Activity">
+
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_marginBottom="3dp"
+                android:layout_weight="1.0"
+                android:background="@drawable/button_selector"
+                android:textAlignment="center"
+                android:drawableLeft="@drawable/success"
+                android:text="PSYCHOLOGICAL QUOTES"
+                android:onClick="openPquotes"
+                android:textColor="#990000"
+                android:textSize="20sp"
+                android:textStyle="bold"
+                />
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_marginBottom="3dp"
+                android:layout_weight="1.0"
+                android:background="@drawable/button_selector"
+                android:textAlignment="center"
+                android:drawableLeft="@drawable/success"
+                android:text="MOTIVATIONAL QUOTES"
+                android:onClick="openMquotes"
+                android:textColor="#990000"
+                android:textStyle="bold"
+                android:textSize="20sp"
+                />
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_marginBottom="3dp"
+                android:layout_weight="1.0"
+                android:background="@drawable/button_selector"
+                android:textAlignment="center"
+                android:drawableLeft="@drawable/success"
+                android:text="KNOWLEDGEABLE QUOTES"
+                android:onClick="openKquotes"
+                android:textStyle="bold"
+                android:textColor="#990000"
+                android:textSize="20sp"
+                />
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_marginBottom="3dp"
+                android:layout_weight="1.0"
+                android:background="@drawable/button_selector"
+                android:textAlignment="center"
+                android:drawableLeft="@drawable/success"
+                android:text="BUSINESS QUOTES"
+                android:onClick="openBquotes"
+                android:textStyle="bold"
+                android:textColor="#990000"
+                android:textSize="20sp"
+                />
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_marginBottom="3dp"
+                android:layout_weight="1.0"
+                android:background="@drawable/button_selector"
+                android:textAlignment="center"
+                android:drawableLeft="@drawable/success"
+                android:text="EXPERIENCE QUOTES"
+                android:onClick="openEquotes"
+                android:textColor="#990000"
+                android:textSize="20sp"
+                />
+        </LinearLayout>
+    </ScrollView>
+
+
+</LinearLayout>

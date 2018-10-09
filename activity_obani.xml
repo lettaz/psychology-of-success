@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#990000"
+    android:orientation="vertical"
+    tools:context=".introduction">
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:background="#ffffff"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="15dp"
+                android:text="IZUCHUKWU OBANI"
+                android:textAlignment="center"
+                android:textAllCaps="true"
+                android:textColor="#000000"
+                android:textSize="30sp"
+                android:textStyle="bold" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="15dp"
+                android:fontFamily="sans-serif"
+                android:paddingLeft="8dp"
+                android:paddingRight="8dp"
+                android:text=" I was motivated with the fact that I wanted to be independent.... I always wanted to stand on my own, free from my dad not like I wasn't having anything and everything I wanted but I wanted to be the provider of self; hence in my 3rd year, I begged my dad to register a company for me with CAC even though then I didn't know the nitty gritty of having a company, the name director appealed to me. (I've a thing for earned titles). He neither obliged me nor refused. He (in his charismatic manner of never wanting to kill your spirit) softly and subtly told me... When you finish school I'll not only open a firm for you, but I'll set you up.  Calamity struck... I lost my dad!
+
+I felt the time was ripe to take charge.... With prayers (faith) an undying drive (passion) and a sight of where I want to be (vision) I was able to raise some money and floated my company Izban Logistics Ltd duly registered.   Having done that, one problem was solved the other was what the company would be doing... With my experience I garnered from student politicking, I was able to outsource for clients. To work with.
+
+It is pertinent to note that part of the vision was deciding where I wanted to be focused on, for having registered your company, you can undertake just about anything. So being focused is important!
+Like every other striving venture, there are always challenges... Ranging from age barrier, people looking down on you to say: can this small boy handle this, to overcome this, I ensure I get my credentials updated always.  I got registered with all required bodies, BPP ITF NHISTF PENCOM DPR to mention but a few....
+
+Another challenge an &quot;INTRAPRENEUR&quot; faces is paying oneself salary. You tend to either underpay or over pay yourself. To settle this, I try to make myself always comfortable, just comfortable to satisfy my conscience.
+
+Another challenge came up in respect to workers and friends you co-opt into your business becoming greedy, wanting too much or everything to themselves.  Forgetting you as the CEO needs to maintain the company, you need to do &quot;PR&quot; and keep the company's account afloat. To settle this, I try to apply rural sociology principle of reward and recreation for workers, give them treat at unexpected times, but if you greed becomes persistent, I move you out while setting you as examples to others...
+
+Other issues came up in different forms but the antidote has always been... Pause pray think and act fast
+Well like every human and African, I won't say am  where I want to be. The moment you feel achieved, you start inviting death because you have nothing to live for. Personally I believe once I have something I'm looking forward to, I'm still immortal (smiles) but this is not to say I'm not grateful... I can actually say I'm the most grateful human on earth; but alas we keep seeing people better than ourselves. We keep striving to better ourselves.... Improve and learn from our mistakes...
+
+I'm currently expanding and improving my knowledge base at the same thing. Again it's not been easy managing school business social and religious life and family life... I'm human afterall but I'm trying to set up some things. To keep running independently, more like unburden myself. Such that I'll be free.
+
+I'm positive I'll get there
+Advice has been, do what is in line with your passion.  Not necessarily what you have passion for. What you have passion for may not be profitable and we know the church cannot run on Hail Mary alone, money is needed.  So work in line with your passion and with all things being in the right proportion and direction, success is sure
+"
+                android:textColor="#000000"
+                android:textSize="20sp" />
+
+
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>

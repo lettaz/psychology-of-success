@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#990000"
+    android:orientation="vertical"
+    tools:context=".introduction">
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:background="#ffffff"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="15dp"
+                android:text="stella okoli"
+                android:textAlignment="center"
+                android:textAllCaps="true"
+                android:textColor="#000000"
+                android:textSize="30sp"
+                android:textStyle="bold" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="15dp"
+                android:fontFamily="sans-serif"
+                android:paddingLeft="8dp"
+                android:paddingRight="8dp"
+                android:text="Dr Stella Chinyelu Okoli is a Nigerian pharmacist, entrepreneur and the founder of Emzor Pharmaceutical- a pharmaceutical manufacturing company.
+She was born in 1944 in Kano State, Nigeria to the family of Felix Ebelechukwu and Margaret Modebelu who were both from Nnewi, Anambra State.
+She started her formal education at All Saint Primary School, Onitsha and then went on to Ogidi Girls Secondary School. She went on to study pharmacy at the University of Bradford, she also obtained an M.Sc in Bio-pharmaceutical from the University of London, Chelsea College in 1971.
+Before she set up Emzor Pharmaceuticals she worked for other pharmaceutical firms which include Middlesex Hospital, London, Boots the Chemists Limited and Pharma-Deko.
+And then in 1977 she dared to start up something of her own. She first started Emzor Pharmaceutical as a small pharmacy retail shop and named it �Emzor Chemists Limited� in Somulu, Lagos State. The retail shop grew and metamorphosed to not just buying and selling already produced drugs but also manufacturing its own drugs. And today it has grown to have a range of over 50 products of which includes the popular, very affordable and effective Emzor Paracetamol.
+Of course Stella Okoli�s work has not gone unnoticed, she has been conferred membership and leadership of prestigious associations of the country. She has served in the following capacities:
+	Member of the Economic Summit of Nigeria
+	Member of the Health Matters Advisory Board of Nigeria
+	Vice-President of Manufacturers Association of Nigeria
+	Vice-President of the Nigerian Association of Chambers of Commerce, Industry, Mines and Agriculture
+	Chairman of the Pharmaceutical Manufacturers Group and the Manufacturers Association of Nigeria
+Dr Stella Okoli is also passionate about philanthropy, she started the Chike Okoli Foundation after the death of her son. The foundation is aimed at fighting poverty and diseases by raising awareness on cardiovascular diseases. She also set up the Chike Okoli Centre for Entrepreneural Studies.
+Accolades
+	Stella Okoli has also bagged a substantial amount of awards. Some of which include:
+	Member of the Order of the Niger award.
+	She was honoured at the This Day Annual Awards in 2012.
+	She is a recipient of the ECOWAS International Gold Award.
+"
+                android:textColor="#000000"
+                android:textSize="20sp" />
+
+
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>

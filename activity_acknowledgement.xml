@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#990000"
+    android:orientation="vertical"
+    tools:context=".Acknowledgement">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:background="#ffffff"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="15dp"
+                android:text="acknowledgement"
+                android:textAlignment="center"
+                android:textAllCaps="true"
+                android:textColor="#000000"
+                android:textSize="30sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="15dp"
+                android:fontFamily="sans-serif"
+                android:paddingLeft="8dp"
+                android:paddingRight="8dp"
+                android:text="This book is based on the intellectual findings made on research, that entails the number of youths passing through the wrong path. I am grateful for a number of  friends and colleagues who helped in encouraging me to start the work, persevered with it, and finally to help build it."
+                android:textColor="#000000"
+                android:textSize="20sp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dp"
+                android:fontFamily="sans-serif"
+                android:paddingLeft="8dp"
+                android:paddingRight="8dp"
+                android:text=" In school, I thank my great circle of friends, EJIEKE SONIA, CHIMA PROSPER, UZOSIKE LYNDA, and most especially OLADOKUN OLUWASEGUN, all of whom never stopped challenging me, and helping me develop my ideas.&#xD;Also acknowledging my level mates, In persons of NGENE CLAIRE, AUSTIN EJEH, IZU CHIZOBA, RIKWANDU JOY and many more for helping me promote this work. &#xD; Not forgetting some persons who stood with me through the designing of the book app, in person of  EKEH JASPER(BLUEPRINTZ GRAPHIX) and my own brother ARUM OKECHUKWU(KILLZ DESIGNS), Their designs gave this project a great vison. &#xD; I am also thankful to my department,INFORMATION MANAGEMENT TECHNOLOGY and its lecturers most especially Engr. Nwakanma Cosmas who has stood has a father to us all in all ratification."
+                android:textColor="#000000"
+                android:textSize="20sp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dp"
+                android:fontFamily="sans-serif"
+                android:paddingLeft="8dp"
+                android:paddingRight="8dp"
+                android:text="In Lagos, I would thank my ALC community friends, Ojo developers precisely, the knowledge gotten was not a waste, will also thank my  friends who were in full support till the launching of the project. Also my church members, thank you all from solution, down to peculiar, to breakthrough parish."
+                android:textColor="#000000"
+                android:textSize="20sp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dp"
+                android:fontFamily="sans-serif"
+                android:paddingLeft="8dp"
+                android:paddingRight="8dp"
+                android:text=" Finally, I would like to acknowledge with gratitude, the support of my extended family- My parents, MR and MRS MICHAEL AMAIZU; My brothers, PROSPER, MIRACLE, PROMISE; My sister, GOSPEL; My cousins, NDOCHUKWU ARUM(CHEMICAL BROTHER), MMESOMA ARUM, MUOTO OKWUDILI and the rest; MY UNCLES and AUNTS, CHIEF MUOTO EDWIN EZEPUO,  ARUM KAMLO,  NZELU CHIBUGO and many more. They all kept me going and this book would not have been possible without them."
+                android:textColor="#000000"
+                android:textSize="20sp" />
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>

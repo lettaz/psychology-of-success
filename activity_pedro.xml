@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#990000"
+    android:orientation="vertical"
+    tools:context=".introduction">
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:background="#ffffff"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="15dp"
+                android:text="uche pedro"
+                android:textAlignment="center"
+                android:textAllCaps="true"
+                android:textColor="#000000"
+                android:textSize="30sp"
+                android:textStyle="bold" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="15dp"
+                android:fontFamily="sans-serif"
+                android:paddingLeft="8dp"
+                android:paddingRight="8dp"
+                android:text="Uche Pedro is a social media expert, Nigerian entrepreneur and Media Entrepreneur.  She is the founder of the Nigeria�s trending fashion and celebrity blog, BellaNaija.com and has inspired young Nigerians into the blogging industry. The good thing about BellaNaija platform is that Uche instilled ethics and a guide in their publishing. There is a balance in the platform and they are not driven by the craze to publish anything just for traffic.
+Biography
+Uche Pedro (Uchenna Jennifer Eze) who hails from the eastern part of Nigeria was born on 26th of July, 1984 and  had her primary and secondary school education in Nigeria before moving to Canada where she obtained her Bachelor�s in Business Administration. She married Olabode Pedro, the son of a one time deputy governor of Lagos state on 16th of June, 2012 and they are blessed with a set of twin. Uche Pedro Source Of Wealth. Her primary source of wealth is through Bellanaija; through Adsense earnings, direct advertisements on Bellanaija and sponsored post. She is a serial entrepreneur and have other business interest. We cannot ascertain her net worth but she sure is a money bag.
+
+
+Early Career
+Uche Eze Pedro started with a post-graduation job with Shell Canada, then Cadbury Middle East and African Unit in UK and finally Cadbury in Nigeria. She is a Nigeria Leadership Initiative associate and a Fellow of TEDGlobal. Uche is also a member, Board of Director of LEAP (Leadership, Effectiveness, Accountability and Professional) Africa, a non profit organisation founded in 2002.
+Birth of BellaNaija.com
+Uche started blogging as a hobby, using it as a means of keeping herself busy while waiting to resume her post graduate job with Shell. She founded BellaNaija in July 2006 and went on to establish Bainstone Limited in 2009. The idea for starting up BellaNaija.com came to her while she was still studying as an undergraduate at University of Western Ontario, Canada. She has always loved Nigeria and Africa and would visit whenever she had a break either at school or at work. Each time she visited Nigeria, she heard and saw how everything in Nigeria was growing, the fashion industry becoming more vibrant, entertainment industry booming, young people getting involved in politics, birth of new businesses by young entrepreneurs and so on. It was so encouraging to her so she decided to start something that will represent the new exciting vibe in the country. And so she began to blog about fashion and celebrities in Nigeria, she started by scanning magazine articles, pictures and interviews of Nigerian fashion personalities, and that was how her website BellaNaija.com was initiated. She was blogging in a low profile way as a hobby until her BellaNaija site began to expand having over one million visitors every month. At that point, she then revealed the personality behind BellaNaija.com to the media.
+BellaNaija started on a free platform (www.bellanaija.blogspot.com) on the 1st of July 2006 before moving to bellanaija.com. When the site starting hitting millions in views in a month, Uche realised the potential of what she was building and she went ahead to organise the business.
+Business part of BellaNaija.com
+The steps she took in organising the business was registering a parent company, BainStone Limited. BainStone Limited is focused on developing and managing innovative and exciting online media contents for Africans. The company was among the 50 high potential SME�s chosen and awarded a British Airways Opportunity Grant. Today, BellaNaija.com is one of the top sites in Nigeria with millions of views in a month and earns huge revenue from Google Adsense, direct adverts, sponsored post and wedding feature. Uche Pedro has been building and expanding the BellaNaija brand and �productising� different segments of the brand, for instance there is the BellaNaijaStyle.com. The Bellanaija brand achieved great feat last year and worthy of mention is their partnership with the United Nations Office of the Commissioner for Human right for International Women�s Day, 2017 to create awareness to issues affecting women in Africa. Uche Pedro received an invite to The Obama Foundation Summit; a 2 day gathering of about 500 civic leaders from around the world. The BellaNaija team completed the Stanford Seed Transformation Program in 2017, a 12-month program where high potential leaders are challenged to assess their companies�s vision and redefine strategies
+Uche Pedro and BellaNaija Awards and Nomination.
+	Listed among 100 people that shaped the year by PUNCH 2008
+	Featured on Oprah Winfrey Show �Beauty Around the World 2010
+	Outstanding Contribution to Fashion Communication Award at African Fashion Week 2010
+	British Council International Young Media Entrepreneur of the Year 2013
+	Young Entrepreneur of the year by The Future Awards Africa 2013
+	Forbes� 30 Most Promising Young Entrepreneur in Africa 2014
+	Creative Industries Awards for Bloggers by Creative Industries Awards 2015
+	Best African Blogger at Nickelodeon Kid�s Choice Award 2016
+	Named in YNaija Powerlist of Most Powerful Young People in Media 2017
+	Nominated for New African Woman Award 2017
+"
+                android:textColor="#000000"
+                android:textSize="20sp" />
+
+
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>

@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#990000"
+    android:orientation="vertical"
+    tools:context=".introduction">
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:background="#ffffff"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="15dp"
+                android:text="DEOLA SAGOE"
+                android:textAlignment="center"
+                android:textAllCaps="true"
+                android:textColor="#000000"
+                android:textSize="30sp"
+                android:textStyle="bold" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="15dp"
+                android:fontFamily="sans-serif"
+                android:paddingLeft="8dp"
+                android:paddingRight="8dp"
+                android:text="Deola Sagoe, founder of Deola fashion house. The startup story of this leading lady of the African haute couture fashion scene is one that could rival any Paris catwalk story. With top models, A-List celebrities and famous society personalities making up her clientele lists, Deola Sagoe, founder of haute couture fashion house Deola, is an entrepreneurial success story of note, putting the Nigerian fashion scene well and truly on the global map. Deola Sagoe has entrepreneurship in her blood, coming from a prominent family of Nigerian entrepreneurs and owners of the Eilzade Group, originally started by her father and late mother, and today run by her brother. It was only whilst studying business administration at the University of Miami in Florida in the mid-1980s that she developed an appreciation for the world of fashion.
+After graduating in 1987, she returned to Nigeria to begin her Masters degree in Finance, with her father encouraging her to join the family business on completion of her studies.  When the time came for her to return to the business, her mother had in the meantime grown a small tailoring business of her own into a major fashion label in the country, producing predominantly traditional embroidered menswear.  Deola asked to join her mother�s business and work on making these traditional designs more contemporary for the new marketplace.  However, her father still asked that she work for the family group of companies whilst continuing her fashion work. &quot;The West has taken and borrowed a lot from Africa� now it�s a renaissance. We�re claiming back with is ours and we�re adding value to what is ours, making it globally acceptable and globally appealing.&quot; Her fashion design credentials took a huge leap forward when she won the M/NET Anglo Gold African Designs Award, having been nominated by the influential US Vogue Editor, Andre Leon Tally, and was selected as one of four designers from Africa to show their work at New York Fashion Week in 2000.  What got her noticed was the fact that she was the only designer to showcase designs using authentic African fabrics from antiquity, but incorporated into contemporary designs.  This was the launchpad for her haute couture business to gain global recognition.  Her fashion collections have since been modelled around the world at some of the biggest and most prestigious events.
+Today, Deola Sagoe has a glamorous flagship store and headquarters on Victoria Island, Nigeria which was completed in 2008 and which houses the brand�s offices, production facilities and showrooms.  Around 20 people are employed here, working on unique runway collections and bespoke haute couture pieces for individual clients.  Her attention to detail, her reputation for excellence in production and design, and her understanding of each client�s unique garment needs for every occasion, have led to a fiercely loyal clientele. &quot;African designers need to celebrate their cultural roots and fashion history in order to become globally competitive.&quot; The woman entrepreneurship dynasty in the fashion business continues through Deola�s three daughters who in 2011 together with Deola founded their own Clan label, producing meticulously designed casual wear and dresses for the younger, more price conscious consumer. Although Deola has achieved so much over the years building what is now a formidable haute couture brand and a reputation for producing the highest quality, innovative design work, she remains focused on building her brand and supporting other African fashion pioneers.
+A lot of people's motive of coming to fashion business is not clear. If you are passionate about the industry and you feel you have something to offer or to showcase, no matter how challenging it is, you will stick to it. A whole lot of them come around because of the glamour forgetting that it is a business.
+Here is an excerpt from an interview she had with Elle magazines explaining what sparked her interest in fashion and what drives her to archive all she does;
+"
+                android:textColor="#000000"
+                android:textSize="20sp" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="3dp"
+                android:fontFamily="sans-serif"
+                android:paddingLeft="8dp"
+                android:paddingRight="8dp"
+                android:text="ELLE: What sparked your passion and interest in fashion?"
+                android:textColor="#000000"
+                android:textSize="20sp" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="3dp"
+                android:fontFamily="sans-serif"
+                android:paddingLeft="8dp"
+                android:paddingRight="8dp"
+                android:text="Coming from a place where the African fashion story wasn�t being told in its entirety, seeing as it was being told through the eyes of European designers who would pick up on more prevalent parts of the African culture during visits for inspiration, I felt there was a deeper story within, itching to be unveiled. The popular Maasai culture was indeed striking, but the Africa I was living in, my Africa, was going through a renaissance, which was characterised by an uncanny and quite contemporary combination of Western and African silhouettes. African fabrics have a truly unique quality and I felt I had a very important role to play in changing the perception of African fashion and in economically empowering local artisans, which is why I have consistently worked with native Nigerian fabrics, such as �Adire� and �Aso Oke�, in every collection. �Komole�, my own authentic answer to every Nigerian�s yearning for an original interpretation and crafting of lace, is original from conceptualisation to crafting to final creation. Komole is now justifiably associated with top-tier attire for every occasion."
+                android:textColor="#000000"
+                android:textSize="20sp" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="3dp"
+                android:fontFamily="sans-serif"
+                android:paddingLeft="8dp"
+                android:paddingRight="8dp"
+                android:text="ELLE: How did your involvement in the documentary, My Nigeria, come about?"
+                android:textColor="#000000"
+                android:textSize="20sp" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="3dp"
+                android:fontFamily="sans-serif"
+                android:paddingLeft="8dp"
+                android:paddingRight="8dp"
+                android:text="I believe this selection was based on merit and on the longevity and commitment to value and quality of the Deola Sagoe brand over the years, within the wider context of Nigeria as a fast-evolving country."
+                android:textColor="#000000"
+                android:textSize="20sp" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="3dp"
+                android:fontFamily="sans-serif"
+                android:paddingLeft="8dp"
+                android:paddingRight="8dp"
+                android:text="ELLE: How do you think the documentary will speak to women?"
+                android:textColor="#000000"
+                android:textSize="20sp" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="3dp"
+                android:fontFamily="sans-serif"
+                android:paddingLeft="8dp"
+                android:paddingRight="8dp"
+                android:text="I believe it will inspire women to begin to take their destiny in their own hands and to realise that they have a role, which transcends traditional moulds and norms."
+                android:textColor="#000000"
+                android:textSize="20sp" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="3dp"
+                android:fontFamily="sans-serif"
+                android:paddingLeft="8dp"
+                android:paddingRight="8dp"
+                android:text="ELLE: What is your specific role in My Nigeria? How so your label �The House of Deola being featured?"
+                android:textColor="#000000"
+                android:textSize="20sp" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="3dp"
+                android:fontFamily="sans-serif"
+                android:paddingLeft="8dp"
+                android:paddingRight="8dp"
+                android:text="The My Nigeria series consists of 30-minute clips on the Al Jazeera channel with a spotlight on the side of Nigeria, which historically has not been portrayed by the global media. The truth is, for every stereotype of corruption or extremism you hear of, there are a million motivated and driven Nigerians who add value and impact positively in and out of Nigeria. The aim of the story is to highlight the truth about Nigeria and change false or misguided perceptions and stereotypes. The Deola brand is being cast in the role of an effective and impactful organisation, particularly with regards to Nigeria�s image, and when shared will empower the people and enlighten the international community."
+                android:textColor="#000000"
+                android:textSize="20sp" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="3dp"
+                android:fontFamily="sans-serif"
+                android:paddingLeft="8dp"
+                android:paddingRight="8dp"
+                android:text="ELLE: What are some of the challenges faced by female designers in Nigeria?"
+                android:textColor="#000000"
+                android:textSize="20sp" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="3dp"
+                android:fontFamily="sans-serif"
+                android:paddingLeft="8dp"
+                android:paddingRight="8dp"
+                android:text="The challenges facing Nigerian designers don�t impact women only. All Nigerian designers have to contend with poor access to training, infrastructure, distribution, retail, a lack of funding and intellectual property theft. These are things we are hoping will change in the near future."
+                android:textColor="#000000"
+                android:textSize="20sp" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="3dp"
+                android:fontFamily="sans-serif"
+                android:paddingLeft="8dp"
+                android:paddingRight="8dp"
+                android:text="ELLE: What's next from the House of Deola Sagoe?"
+                android:textColor="#000000"
+                android:textSize="20sp" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="3dp"
+                android:fontFamily="sans-serif"
+                android:paddingLeft="8dp"
+                android:paddingRight="8dp"
+                android:text="Komole Kandids is currently in the works and should be released sometime before the end of the year. I am particularly excited about this collection and it is quite close to my heart for a couple of reasons that I won�t disclose just yet�let�s keep an element of surprise! I can, however, say this collection will unveil the �blue blood� in, and speak to, every woman at any level or phase of her life and for any occasion she might have in mind. In this �selfie� age, everyday has its moments and everyday is an event, which you might want to capture on camera and keep for a lifetime"
+                android:textColor="#000000"
+                android:textSize="20sp" />
+
+
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>
